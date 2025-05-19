@@ -1,0 +1,896 @@
+"","Name","JapaneseName","Station","FirstCategory","SecondCategory","DinnerPrice","LunchPrice","TotalRating","DinnerRating","LunchRating","ReviewNum","Lat","Long"
+"1","Orudeidainingurajou  ","オールデイダイニング　ラジョウ","Kyoto","Buffet style","Cafe","￥4000～￥4999","￥2000～￥2999",3.39,3.2,3.38,56,34.9861751483108,135.761313932311
+"2","Steak Frites Gaspard zinzin  ","ステックフリット ガスパール ザンザン","Karasuma","Bistro","Steak","￥3000～￥3999","￥1000～￥1999",3.18,3.06,3.33,70,35.0058257987896,135.759856759688
+"3","KAZUMA  ","和馬","Sanjo","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.28,3.28,NA,7,35.0065825659963,135.770246695295
+"4","okonomiyakiteppanyakimiki  ","お好み焼き 鉄板焼き 三喜","Tambaguchi","Okonomiyaki","Izakaya (Tavern)","￥3000～￥3999",NA,3.14,3.14,NA,16,34.9959244331732,135.748266511467
+"5","Shaofeiyan  ","小肥羊 京都河原町店","Kyoto Shiyakusho Mae","Chinese hot pot / fire pot","Chinese","￥4000～￥4999","￥1000～￥1999",3.16,3.16,3.05,23,35.00790072262,135.768201804433
+"6","okuta-va  ","OCTAVAR","Kyoto","Bar","Italian","￥4000～￥4999","￥1000～￥1999",3.08,3,3.11,24,34.9834970882448,135.760559396056
+"7","Resort dining&bar HaLe  ","Resort dining&bar HaLe 河原町店","Sanjo","Italian","Bar","￥3000～￥3999","￥1000～￥1999",3.04,3.05,3,22,35.0071947091437,135.769468120661
+"8","Sumika  ","棲家","Kawaramachi","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999",NA,3.34,3.34,NA,23,35.0047040863454,135.770182117381
+"9","Gayagaya  ","我家我家","Sanjo","Izakaya (Tavern)","Bar","￥3000～￥3999",NA,3.03,3.04,NA,3,35.0071741645137,135.76996780233
+"10","Ishibekoujimamecha  ","石塀小路 豆ちゃ 京都","Gion Shijo","Izakaya (Tavern)","Kyoto Cuisine","￥4000～￥4999",NA,3.56,3.56,NA,92,35.0008130609394,135.779155387735
+"11","nagoyako-chintokoshitsuizakayatorisai  ","名古屋コーチンと個室居酒屋 鶏彩 河原町店","Sanjo","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.04,3.04,NA,4,35.0073957953599,135.769274238615
+"12","Gionabesu  ","祇園 Abbesses","Gion Shijo","French","Italian","￥8000～￥9999","￥6000～￥7999",3.58,3.54,3.56,120,35.0019536965639,135.774821250723
+"13","nishikimachinoakarishoutengai  ","錦 街の灯り商店街","Karasuma","Izakaya (Tavern)","Bar","￥2000～￥2999","￥2000～￥2999",3,3,NA,2,35.0051631289148,135.76197633639
+"14","gionni-yongo  ","祗園245","Sanjo Keihan","Italian","French","￥10000～￥14999","￥6000～￥7999",3.85,3.83,3.75,39,35.0063010233471,135.775622650675
+"15","Mumon  ","無門 三条室町店","Karasuma Oike","Shabu Shabu (Japanese Steamboat)","Fugu (Blowfish)","￥5000～￥5999"," ～￥999",3.05,3.05,NA,13,35.0093348325975,135.757835377113
+"16","itariandainingutoreotto  ","イタリアンダイニングTREOTTO 西院店","Saiin","Italian","Dining bar","￥3000～￥3999",NA,3.04,3.04,3.03,2,35.0037285790702,135.731255064949
+"17","Sukiyakisunibiizakayahokuto  ","すき焼き炭火居酒屋 北斗","Kyoto","Sukiyaki","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.09,3.1,NA,19,34.9890645141595,135.758604579846
+"18","Sakaean  ","さかえ庵","Karasuma","Izakaya (Tavern)","Nihonshu (Japanese sake)","￥2000～￥2999"," ～￥999",3.09,3.1,3.06,31,35.0046837389483,135.762414099884
+"19","biakicchinnikubarujikabiyajikabiya  ","ビアキッチン肉バル ジカビヤ 京都河原町店","Kawaramachi","Bar","Izakaya (Tavern)","￥3000～￥3999","￥1000～￥1999",3.06,3.06,NA,21,35.0062692440335,135.768979037223
+"20","ANAGOYA NORESORE  ","穴子家 NORESORE 京都本店","Nijojo Mae","Izakaya (Tavern)","Seafood","￥5000～￥5999","￥2000～￥2999",3.5,3.07,3.55,16,35.0125846891279,135.753619466503
+"21","bejo-tamucho  ","ベジョータ ムチョ 室町店","Shijo","Spain","Izakaya (Tavern)","￥3000～￥3999",NA,3.16,3.16,NA,18,35.0013862396802,135.757912125595
+"22","TENTATION  ","タンタシオン","Sanjo","Bistro","Italian","￥4000～￥4999",NA,3.06,3.06,NA,3,35.009557804073,135.770289888056
+"23","Izakayariraku  ","居酒屋 りらく","Karasuma","Yakitori (Grilled chicken)","Fowl","￥3000～￥3999",NA,3.03,3.03,NA,24,35.0025714742237,135.762694729386
+"24","kyoutohyouto  ","京都 瓢斗 京都店","Karasuma","Pork Shabu Shabu","Shabu Shabu (Japanese Steamboat)","￥8000～￥9999","￥2000～￥2999",3.64,3.66,3.58,46,35.0055907972466,135.758329397355
+"25","Robatayagaburi  ","炉端屋 がぶり","Karasuma","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.09,3.09,NA,16,35.00651710655,135.759445373136
+"26","Kushiyachouemon  ","長右衛門 京都烏丸店","Karasuma","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999"," ～￥999",3.03,3.03,3.02,10,35.0050884162122,135.762063832564
+"27","Torattoriaviare  ","トラットリアヴィアーレ 京都本店","Kiyomizu Gojo","Italian","Western Cuisine","￥5000～￥5999","￥1000～￥1999",3.44,3.3,3.31,33,34.9985422700966,135.767682833969
+"28","Komefuku  ","米福 京都木屋町","Sanjo","Tempura","Seafood","￥3000～￥3999",NA,3.06,3.06,NA,10,35.0082946127223,135.770683246881
+"29","Togiya  ","十祇家 木屋町御池店","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Chinese","￥3000～￥3999","￥1000～￥1999",3.08,3.08,NA,23,35.0118284045243,135.770861402716
+"30","kushiyakimanten  ","串焼 満天 先斗町店","Sanjo","Yakitori (Grilled chicken)","Kyoto Cuisine","￥3000～￥3999",NA,3.35,3.35,3.04,14,35.0079613206178,135.771002680142
+"31","Kurogewagyuutenshou  ","黒毛和牛 天正","Marutamachi","Yakiniku (BBQ Beef)","Sukiyaki","￥5000～￥5999"," ～￥999",3.5,3.47,3.16,13,35.0146637512369,135.760364643926
+"32","Chizutakkarubikoshitsubaruvino  ","チーズタッカルビ×個室 バル・ヴィーノ","Sanjo","Izakaya (Tavern)","Dining bar","￥2000～￥2999",NA,3.17,3.17,NA,10,35.0073894081148,135.769329234342
+"33","teppandainingukyoushikian  ","鉄板ダイニング 京四季庵","Gion Shijo","Teppanyaki","Steak","￥5000～￥5999",NA,3.06,3.06,NA,16,35.0050871864524,135.771166409986
+"34","Yasuma  ","靖馬","Kawaramachi","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.02,3.02,NA,26,35.004371682583,135.769744061055
+"35","In the Soup.  ","in the Soup.","Gion Shijo","Bar","Bistro","￥3000～￥3999","￥1000～￥1999",3.02,3.03,NA,5,35.004126761561,135.772765765823
+"36","Gionyakinikukokoro  ","祇園焼肉 志","Gion Shijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.06,3.06,NA,5,35.0056702531591,135.775375200267
+"37","daininguba-daburyu-  ","Dining Bar W","Gion Shijo","Kappo (Traditional Japanese)","Steak","￥4000～￥4999",NA,3.25,3.25,NA,17,35.0051366514701,135.772647118069
+"38","Kyoutodaina  ","京都ダイナー","Karasuma","Bistro","Bar","￥3000～￥3999","￥2000～￥2999",3.54,3.53,3.32,82,35.0053067461152,135.763880776774
+"39","Zasoudouhigashiyamakyouto  ","THE SODOH HIGASHIYAMA KYOTO","Gion Shijo","Italian","Pasta","￥6000～￥7999","￥2000～￥2999",3.61,3.61,3.58,272,34.9988963304625,135.779667933418
+"40","Gokyou  ","牛京 東九条店","Jujo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.04,3.04,NA,2,34.9754043250388,135.759545963938
+"41","Ichifuji  ","一知富士","Shijo","Izakaya (Tavern)","Kappo (Traditional Japanese)","￥4000～￥4999",NA,3.05,3.05,NA,12,35.0013745798691,135.758233210577
+"42","Tsukihikarasuma  ","月陽 KARASUMA","Shijo","Izakaya (Tavern)","Creative cuisine","￥4000～￥4999","￥1000～￥1999",3.17,3.17,3.03,35,35.0014042831755,135.757332172929
+"43","Kyoutotempuraendou  ","京都 天ぷら圓堂 岡崎邸","Higashiyama","Tempura","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥5000～￥5999",3.55,3.45,3.59,6,35.016166715603,135.78025014546
+"44","Resutoraniro  ","restaurant IRO","Karasuma","Izakaya (Tavern)","Creative cuisine","￥4000～￥4999",NA,3.08,3.08,NA,31,35.0029150541461,135.763259341262
+"45","Shuteimichiya  ","酒亭 道や","Karasuma Oike","Izakaya (Tavern)","Seafood","￥5000～￥5999"," ～￥999",3.06,3.06,NA,1,35.0133219216821,135.758725397401
+"46","Trattoria La Pace  ","トラットリア ラパーチェ","Karasuma","Italian","Pizza","￥4000～￥4999","￥1000～￥1999",3.51,3.3,3.51,52,35.0052600869409,135.763347606931
+"47","Izakayabambu  ","居酒屋 バンブー 京都駅前","Kyoto","Izakaya (Tavern)","Kappo (Traditional Japanese)","￥3000～￥3999",NA,3.02,3.02,NA,20,34.98456517764,135.753134407968
+"48","Peppa  ","ペッパー","Kawaramachi","Okinawan Cuisine","Izakaya (Tavern)","￥3000～￥3999",NA,3.08,3.09,NA,11,35.0051163351892,135.770318423513
+"49","Banikuryourisemmontenumayarou  ","馬肉料理専門店　馬野郎","Kawaramachi","Yakiniku (BBQ Beef)","Shabu Shabu (Japanese Steamboat)","￥3000～￥3999",NA,3.51,3.51,NA,52,35.0047958114895,135.770292758504
+"50","Teppanryourihanaroku  ","鉄板料理 花六","Gojo","Teppanyaki","Kyoto Cuisine","￥10000～￥14999",NA,3.47,3.47,NA,2,34.9934590606226,135.759549576809
+"51","Kyoutohanabi  ","京都ハナビ","Karasuma","Izakaya (Tavern)","Japanese food (other)","￥2000～￥2999",NA,3.12,3.12,NA,25,35.0026723205949,135.762557509078
+"52","Kyoutohananomai  ","京都 花の舞","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999"," ～￥999",3.04,3.04,NA,11,34.9867909098527,135.760974487706
+"53","pontochoutanrakuyatoriume  ","先斗町 炭楽屋とりうめ","Sanjo","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥4000～￥4999",NA,3.05,3.05,NA,7,35.0076732995129,135.771211287189
+"54","Osakanadekoboko  ","御肴 凸鉾","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.42,3.42,NA,18,34.9897025458045,135.761142673015
+"55","Sunny  ","Sunny","Sanjo","Dining bar","Steak","￥3000～￥3999","￥1000～￥1999",3.48,3.33,3.35,39,35.0088126166557,135.770899871707
+"56","Gochiya  ","ご馳家","Kyoto","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999"," ～￥999",3.18,3.13,3.1,33,34.9884404609588,135.761279108682
+"57","Shusaijoujou  ","酒菜 乗々","Kyoto","Creative cuisine","Izakaya (Tavern)","￥5000～￥5999",NA,3.03,3.03,3.03,12,34.9883648466884,135.755297868851
+"58","o-rudeidainingukaza  ","オールデイダイニング カザ","Kyoto","Buffet style","Cafe","￥4000～￥4999","￥2000～￥2999",3.41,3.08,3.52,15,34.9861608292917,135.752504109069
+"59","Yakinikudainingukinoe  ","焼肉ダイニング 甲","Kyoto Shiyakusho Mae","Yakiniku (BBQ Beef)","Korean cuisine","￥5000～￥5999",NA,3.58,3.57,3.51,39,35.0122604635406,135.764163605741
+"60","Manjirou  ","萬治郎","Gion Shijo","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥3000～￥3999",3.57,3.54,3.53,57,35.0017457541648,135.780026105812
+"61","Sakayaagurema  ","酒彩 あぐれま","Sanjo","Izakaya (Tavern)","Sukiyaki","￥4000～￥4999",NA,3.03,3.03,NA,9,35.0094078177675,135.770155461682
+"62","chuugokuryourichimmin  ","中国料理 青冥 祇園店","Gion Shijo","Chinese","Dim sum","￥5000～￥5999","￥1000～￥1999",3.5,3.21,3.52,44,35.0041359664734,135.775011689987
+"63","Hanasaki  ","花咲 錦店","Karasuma","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥4000～￥4999",3.58,3.54,3.58,30,35.0043996209478,135.763205991643
+"64","nikushokusakabagaru  ","肉食酒場 garu","Gion Shijo","Bar","Sumibiyaki","￥4000～￥4999"," ～￥999",3.04,3.04,NA,11,35.0048216518419,135.77073951322
+"65","furenchidainingutoppuobukyouto  ","フレンチダイニング トップ オブ キョウト","Kyoto","French","Restaurants (other)","￥10000～￥14999","￥5000～￥5999",3.07,3.07,3.06,33,34.9861624957947,135.752504942257
+"66","takaradoukarasuma  ","宝堂 KARASUMA","Shijo","Izakaya (Tavern)","Sukiyaki","￥3000～￥3999",NA,3.05,3.05,NA,4,35.0025347092754,135.756842994842
+"67","Ikedayahananomai  ","池田屋　はなの舞","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.07,3.08,3.06,59,35.0088103660205,135.769259452492
+"68","Kyoutogiontempurayasakaendou  ","京都祇園 天ぷら八坂圓堂","Gion Shijo","Tempura","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥5000～￥5999",3.68,3.64,3.68,252,34.9989145822574,135.77511164431
+"69","Ryoumashamonoujou  ","龍馬 軍鶏農場 京都駅前店","Kyoto","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3,3.01,3,27,34.9880182697134,135.7604672511
+"70","Komefuku  ","米福 四条烏丸","Karasuma","Tempura","Ten-don (Tempura Bowl)","￥2000～￥2999"," ～￥999",3.55,3.51,3.56,140,35.0046062331496,135.761353080459
+"71","Gionkyouryourihanasaki  ","祇園 京料理 花咲","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥4000～￥4999",3.5,3.32,3.45,56,35.001987605201,135.776159471356
+"72","Izakayashinoomiya  ","はなまる串カツ製作所 大宮店","Shijo Omiya","Izakaya (Tavern)","Kushi-age (Fried Skewer)","￥2000～￥2999",NA,3.14,3.14,NA,30,35.0047962545949,135.747841693829
+"73","Ittetsugurache  ","Ittetsu Grazie","Karasuma","Yakiniku (BBQ Beef)","Bar","￥3000～￥3999"," ～￥999",3.52,3.5,3.32,33,35.0047036962275,135.762538484634
+"74","Ichishun  ","一瞬","Kyoto","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999"," ～￥999",3.53,3.52,3.4,72,34.9877799444932,135.7594723447
+"75","Nikokubaru  ","ニューコクバル 京都山科店","Keihan Yamashina","Izakaya (Tavern)","Kushi-age (Fried Skewer)","￥2000～￥2999",NA,3.03,3.03,NA,15,34.9906070184028,135.816001130938
+"76","Teppansakuwan  ","鉄板 さくわん","Saiin","Teppanyaki","Izakaya (Tavern)","￥3000～￥3999",NA,3.04,3.04,NA,1,35.0029211577045,135.730812638868
+"77","RIGOLETTO SMOKE GRILL & BAR  ","RIGOLETTO SMOKE GRILL & BAR","Gion Shijo","Italian","Spain","￥4000～￥4999","￥1000～￥1999",3.52,3.5,3.51,113,35.0023853402133,135.776146676328
+"78","Kugurinaberoppakuya  ","くぐり鍋 六白屋","Karasuma","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999",NA,3.08,3.04,3.12,19,35.0043845208436,135.757382587083
+"79","Kyouryouritategami  ","京料理 立神","Marutamachi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥2000～￥2999",3.51,3.49,3.2,11,35.0176544080438,135.752669034239
+"80","Pontochourobin  ","先斗町 魯ビン","Sanjo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999",NA,3.48,3.23,3.5,66,35.007637467664,135.771076855559
+"81","BELLOTA concha  ","ベジョータコンチャ 富小路店","Kawaramachi","Spain","Italian","￥3000～￥3999","￥1000～￥1999",3.16,3.16,3.06,23,35.0028287148498,135.764830752759
+"82","Bejitejiya  ","ベジテジや 四条木屋町店","Gion Shijo","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999",NA,3.11,3.11,NA,46,35.0035395378738,135.77026258034
+"83","Matsuzakagyuuwattsuzakicchin  ","松阪牛 WHAT'S THE KITCHEN","Gion Shijo","Steak","Sushi","￥10000～￥14999",NA,3.06,3.06,NA,4,35.006283478163,135.772928430793
+"84","Sushidokoroima  ","寿し処 今","Katsura","Sushi","Seafood","￥6000～￥7999",NA,3.53,3.53,NA,13,34.979850486332,135.710131252004
+"85","Maribuagaru  ","まりぶあがる","Karasuma","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.1,3.1,NA,24,35.0026827391119,135.761237630186
+"86","Italian bar Lugol  ","イタリアンバール ルゴール","Karasuma Oike","Italian","Pasta","￥2000～￥2999"," ～￥999",3.03,3.02,3.04,28,35.0111876696183,135.756670110802
+"87","Takishokudou  ","ターキー食堂","Shijo","Dining bar","Izakaya (Tavern)","￥3000～￥3999",NA,3.02,3.02,NA,3,35.0026330051004,135.755297563109
+"88","Bar Pleasure  ","バー プレジャー","Kawaramachi","Bar","Wine bar","￥2000～￥2999",NA,3,3,NA,2,35.0061886218041,135.764668287831
+"89","Sou  ","宗","Shijo","Izakaya (Tavern)","Creative cuisine","￥4000～￥4999",NA,3.55,3.55,NA,44,35.0048177708664,135.755266076244
+"90","Kaisenizakayamatsurishungyotokyouyasaitoosakenoomise  ","海鮮居酒屋 祭ーMATSURIー 〜旬魚と京野菜とお酒のお店〜","Kawaramachi","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.03,3.03,NA,7,35.0040092787709,135.770300805123
+"91","Momojirou  ","ももじろう 師団街道龍大前店","Fukakusa","Izakaya (Tavern)","Chanko Nabe (Sumo Wrestlers Hot Pot)","￥3000～￥3999",NA,3.04,3.04,NA,8,34.9628166529074,135.768027505772
+"92","Yakinikusakayaisshin  ","焼肉酒屋いっ心","Rokujizo","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥6000～￥7999",NA,3.1,3.1,3.05,8,34.9322720261464,135.793188766907
+"93","Kyouhonoka  ","京ほのか 三条木屋町店","Sanjo","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999",NA,3.01,3.02,NA,12,35.0090850753986,135.770206305652
+"94","Ampan  ","内房","Karasuma Oike","Korean cuisine","Yakiniku (BBQ Beef)","￥3000～￥3999","￥1000～￥1999",3.08,3.09,3,20,35.0085107284906,135.756370536711
+"95","rino  ","Lino","Karasuma Oike","Italian","Pasta","￥6000～￥7999","￥1000～￥1999",3.2,3.05,3.2,10,35.0131424729159,135.757379128582
+"96","REAL NETA DINING ICHIZ  ","イチズ","Tambaguchi","Italian","Izakaya (Tavern)","￥4000～￥4999"," ～￥999",3.05,3.05,3,14,34.9929450895897,135.735796850912
+"97","nikubaruginjirou  ","肉バル銀次郎 先斗町店","Gion Shijo","Bar","Steak","￥3000～￥3999",NA,3.06,3.07,NA,7,35.0042653266744,135.770980907676
+"98","Kushikatsutanaka  ","串カツ田中 西院店","Saiin","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥2000～￥2999",NA,3.02,3.02,NA,3,35.0037849596386,135.73112396213
+"99","nihonshusumiyakiyaiki  ","日本酒 炭焼き家 粋","Fushimi Momoyama","Izakaya (Tavern)","Kappo (Traditional Japanese)","￥3000～￥3999",NA,3.04,3.05,3,9,34.9319940369551,135.763480413649
+"100","Taketori  ","竹とり","Hanazono","Fowl","Yakitori (Grilled chicken)","￥4000～￥4999",NA,3.06,3.06,NA,11,35.0200080927924,135.71865044509
+"101","Pierupureshiuzu  ","ピエール プレシウーズ","Karasuma Oike","French","Western Cuisine","￥5000～￥5999","￥1000～￥1999",3.06,3.04,3.06,14,35.0072606963549,135.762778950935
+"102","Yamadaruma  ","やまだるま","Karasuma Oike","Izakaya (Tavern)","Seafood","￥3000～￥3999"," ～￥999",3.03,3.03,3.03,10,35.0073406469914,135.760442474632
+"103","unagihitsumabushisumiyagura  ","うなぎ･ひつまぶし炭櫓 京都四条河原町店","Kawaramachi","Unagi (Freshwater eel)","Kyoto Cuisine","￥2000～￥2999","￥1000～￥1999",3.21,3.03,3.21,7,35.0035820463351,135.769830756877
+"104","pittsuxeriaba-rurenapori  ","ピッツェリア・バール・レ・ナポリ 京都錦","Karasuma","Italian","Pizza","￥2000～￥2999"," ～￥999",3.37,3.07,3.52,37,35.0050542545871,135.762143271984
+"105","kyoutoufusousakuhirarinteikakurean  ","京豆腐創作 平林亭 隠れ庵","Kyoto","Izakaya (Tavern)","Tofu","￥3000～￥3999","￥1000～￥1999",3,3,NA,10,34.9894058915637,135.76003750068
+"106","Yakinikusebun  ","焼肉 SEVEN","Tambaguchi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.3,3.3,NA,11,34.9893643762064,135.736640279062
+"107","Kushiyakimanten  ","串焼き満天 四条烏丸店","Karasuma","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999",NA,3.07,3.08,NA,17,35.0043123705694,135.761059785014
+"108","Yakinikuichiba  ","焼肉市場 高野店","Chayama","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.04,3.04,NA,3,35.0405925559109,135.787095952307
+"109","Pizzeria e Bar La Voce  ","Pizzeria e Bar La Voce","Kawaramachi","Italian","Pizza","￥3000～￥3999","￥1000～￥1999",3.18,3.18,3.05,14,35.0024457106357,135.765917523079
+"110","Nyavetonamu  ","ニャーヴェトナム 京都店","Kyoto","Viet Nam cuisine","Cafe","￥3000～￥3999","￥1000～￥1999",3.04,3.04,3.02,18,34.9887087338191,135.759459802978
+"111","Taishuusakabatenuzumasatenjingawaten  ","大衆酒場 天 太秦天神川店","Uzumasa Tenjingawa","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999","￥3000～￥3999",3.02,3.02,NA,1,35.0113916436711,135.715086610472
+"112","hoterukeihankyoutogurandeokujoubiaga-den  ","ホテル京阪京都 グランデ 屋上ビアガーデン","Kyoto","Beer garden","Beer","￥3000～￥3999",NA,3.05,3.05,NA,3,34.9835995832687,135.760902140649
+"113","Gionramburu  ","祇園らんぶる","Gion Shijo","Kyoto Cuisine","Creative cuisine","￥5000～￥5999","￥3000～￥3999",3.56,3.56,3.06,24,35.0031163586616,135.775318100373
+"114","Shisui  ","紫水","Sanjo","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3,3,NA,8,35.009195902394,135.770522107655
+"115","gyouzaba-anzukko  ","GYOZA BAR 杏っ子","Kyoto Shiyakusho Mae","Dumplings","Chinese","￥2000～￥2999",NA,3.08,3.09,NA,25,35.0092211611541,135.769588017402
+"116","jukuseiyakinikupondo  ","熟成焼肉 听 四条大宮店","Shijo Omiya","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999","￥1000～￥1999",3.28,3.25,3.09,26,35.0045498978592,135.748173899804
+"117","KORAN  ","香蘭","Sai","Korean cuisine","Yakiniku (BBQ Beef)","￥4000～￥4999",NA,3.12,3.12,NA,10,35.003480331926,135.734669237277
+"118","Kyoutonijoutosaka  ","京都二条とさか","Marutamachi","Kappo (Traditional Japanese)","Japanese food (other)","￥8000～￥9999","￥2000～￥2999",3.53,3.36,3.57,13,35.0135900066418,135.762050386696
+"119","YAMAMURA GYUUBEI  ","近江牛Steak&Wine 山村牛兵衛 四条大宮店","Omiya","Izakaya (Tavern)","Italian","￥3000～￥3999","￥1000～￥1999",3.06,3.04,3.06,17,35.0050615247931,135.749032138305
+"120","Poquito  ","ポキート","Kyoto Shiyakusho Mae","Spain","Dining bar","￥5000～￥5999",NA,3.51,3.51,NA,83,35.0103402053316,135.76942797917
+"121","Machiyashisenhoshitsukiyo  ","町家四川 星月夜","Omiya","Sichuan Cuisine","Shanghai Cuisine","￥8000～￥9999","￥3000～￥3999",3.53,3.27,3.56,14,35.0014650442168,135.753565538506
+"122","Ameirobisutoroaruru  ","アメイロビストロアルル","Nishi Maizuru","Italian","Cafe","￥3000～￥3999","￥1000～￥1999",3.05,3.04,3.06,8,35.4531345954263,135.329018056996
+"123","LODGE  ","北海道ステーキハウス LODGE","Kyoto Shiyakusho Mae","Steak","Izakaya (Tavern)","￥4000～￥4999","￥1000～￥1999",3.06,3.06,3,4,35.0097955295841,135.768753338055
+"124","Yosuke YAMAJI  ","山地陽介","Gion Shijo","French","Modern French","￥20000～￥29999","￥8000～￥9999",4.02,3.68,3.75,44,35.0027080751407,135.775669756633
+"125","Feliz-Lana  ","フェリスラナ","Karasuma","Italian","Bar","￥3000～￥3999","￥1000～￥1999",3.2,3.2,3.06,23,35.0023384434237,135.762685018699
+"126","Wakanoshizuku  ","和花のしずく 三条木屋町店","Sanjo","Izakaya (Tavern)","Chanko Nabe (Sumo Wrestlers Hot Pot)","￥3000～￥3999",NA,3.02,3.02,NA,4,35.0090970189682,135.770229358743
+"127","fujiyakyoushoku  ","Fuji屋 京色","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Japanese food (other)","￥5000～￥5999","￥4000～￥4999",3.04,3.04,NA,8,35.0135175544319,135.764342699656
+"128","Teramachiyoshikura  ","寺町よしくら","Demachiyanagi","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥5000～￥5999","￥1000～￥1999",3.16,3.13,3.09,33,35.0287626378569,135.767667880596
+"129","sakanaryouritosakeshinsengumi  ","魚料理と酒 新鮮具味","Fushimi","Izakaya (Tavern)","Seafood","￥6000～￥7999","￥2000～￥2999",3.28,3.28,NA,38,34.9402814766159,135.747163053901
+"130","bisutorowaraku  ","Bistro WARAKU 四条柳馬場店","Karasuma","Bistro","Bar","￥4000～￥4999","￥1000～￥1999",3.2,3.14,3.15,37,35.0044229668434,135.764068141189
+"131","Uroko  ","鱗","Kawaramachi","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.07,3.07,NA,18,35.0044541828409,135.770264014074
+"132","Ipponyari  ","一本槍","Fujinomori","Fugu (Blowfish)","Kappo (Traditional Japanese)","￥8000～￥9999",NA,3.08,3.09,NA,5,34.9574921438766,135.763530902143
+"133","Higashinotouinsou  ","東洞院SOU","Karasuma Oike","Kappo (Traditional Japanese)","Japanese food (other)","￥4000～￥4999","￥1000～￥1999",3.15,3.15,3.06,6,35.0074942517641,135.761020197357
+"134","hokkorisakabanagomiya  ","ほっこり酒場なごみ家","Shijo Omiya","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.06,3.06,NA,6,35.0061571694362,135.744938816698
+"135","teppandainingugionshou  ","鉄板Dining祇園 翔 縄手店","Gion Shijo","Izakaya (Tavern)","Teppanyaki","￥2000～￥2999",NA,3.02,3.02,NA,1,35.0040289967583,135.772909925019
+"136","Charcoal  ","チャコール","Shijo","Italian","Bar","￥3000～￥3999",NA,3.53,3.53,NA,19,35.0040659194942,135.755990495142
+"137","rakuenzakayaannachuraru  ","楽園酒屋 アンナチュラル","Demachiyanagi","Izakaya (Tavern)","Dining bar","￥2000～￥2999",NA,3,3,NA,2,35.029520546032,135.779161565477
+"138","Gionemon  ","祇園えもん","Higashiyama","Sushi","Kappo (Traditional Japanese)","￥6000～￥7999","￥1000～￥1999",3.48,3.39,3.23,17,35.0070682048416,135.777988807732
+"139","Momojirou  ","ももじろう JR山科駅前店","Keihan Yamashina","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.08,3.08,NA,14,34.9918852426794,135.817584829449
+"140","Kizakurajirokutei  ","黄桜 治六亭","Sanjo","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.2,3.2,NA,15,35.0083040555842,135.770650471388
+"141","torisemmontenyamadori  ","鶏専門店山鶏","Kyoto","Yakitori (Grilled chicken)","Sukiyaki","￥3000～￥3999",NA,3.38,3.38,NA,14,34.9893744850266,135.758834824231
+"142","satsumachirandorikuroyakibeppinya  ","さつま知覧どり 黒焼き べっぴんや","Karasuma","Izakaya (Tavern)","Fowl","￥3000～￥3999",NA,3.48,3.46,3.08,39,35.0024498377811,135.763680208698
+"143","zensekikoshitsuizakayasakurazaka  ","全席個室居酒屋 桜坂 河原町店","Sanjo","Izakaya (Tavern)","Seafood","￥2000～￥2999",NA,3,3,NA,4,35.0076434580508,135.770025878736
+"144","Chiritorinabeiyama  ","ちりとり鍋 伊山","Kitano Hakubaicho","Chiritori nabe (tripe)","Korean cuisine","￥4000～￥4999",NA,3.52,3.52,NA,24,35.0266908875947,135.733680472959
+"145","Mayonakashokudouchoujuugigarokkaku  ","真夜中食堂 鳥獣戯画 六角","Karasuma Oike","Izakaya (Tavern)","Fowl","￥2000～￥2999",NA,3.06,3.06,NA,3,35.0077163534109,135.755477314134
+"146","Bankettonishiki  ","ばんけっと Nishiki.","Karasuma","Japanese food (other)","Izakaya (Tavern)","￥4000～￥4999",NA,3.15,3.15,NA,7,35.0051393378696,135.760538380364
+"147","Roppakuyakado  ","Roppakuya KADO","Karasuma","Izakaya (Tavern)","Wine bar","￥3000～￥3999",NA,3.06,3.06,NA,7,35.0044689590267,135.757541181135
+"148","Parinijuuikku  ","パリ21区","Kawaramachi","Steak","Beer","￥2000～￥2999","￥1000～￥1999",3.15,3.06,3.3,45,35.0051732085629,135.766597896551
+"149","ajidokorosamon  ","味どころ 佐門","Sai","Izakaya (Tavern)","Okinawan Cuisine","￥3000～￥3999"," ～￥999",3.05,3.04,3.03,2,35.0039066692894,135.734330079148
+"150","Ajidokoroterasaki  ","味処てらさき","Kyoto","Kaiseki (Traditional Japanese)","Seafood","￥8000～￥9999",NA,3.52,3.52,NA,8,34.9884436069205,135.750571386701
+"151","STRADA  ","リストランテ ストラーダ","Kyoto Shiyakusho Mae","Italian",NA,"￥6000～￥7999","￥2000～￥2999",3,3.02,3,18,35.0111700267108,135.764283368223
+"152","Nonkitei  ","呑寄亭","Gion Shijo","Kappo (Traditional Japanese)","Creative cuisine","￥8000～￥9999",NA,3.47,3.47,NA,20,35.005610543325,135.775718785592
+"153","kyouryourikaji  ","京料理 かじ","Marutamachi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥5000～￥5999",3.56,3.54,3.51,67,35.0172339290037,135.754474736969
+"154","nikugaumaikafenikkusutokku  ","肉が旨いカフェ NICK STOCK 京都リサーチパーク店","Tambaguchi","Cafe","Steak","￥2000～￥2999","￥1000～￥1999",3.19,3.09,3.14,41,34.9955417719794,135.736694990099
+"155","momojirouichiba  ","ももじろう市場 京福北野白梅町駅前店","Kitano Hakubaicho","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.05,3.05,NA,3,35.0271719225443,135.732265846074
+"156","Waraiya  ","笑い屋","Kawaramachi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥4000～￥4999",NA,3.09,3.1,NA,27,35.0028114876945,135.764935643338
+"157","Ryouma  ","龍馬 三条烏丸","Karasuma Oike","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.03,3.04,NA,1,35.0085699666364,135.760825441782
+"158","Nihonryouriukihashi  ","浮橋","Kyoto","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999","￥3000～￥3999",3.53,3.51,3.54,42,34.9860781841528,135.759591579816
+"159","Sushiyoshino  ","寿司吉乃 先斗町","Sanjo","Sushi","Kappo (Traditional Japanese)","￥6000～￥7999","￥2000～￥2999",3.06,3.06,NA,3,35.0081457443705,135.770947398464
+"160","Tsuneo  ","ツネオ","Gion Shijo","Kappo (Traditional Japanese)","Wine bar","￥10000～￥14999",NA,3.52,3.52,NA,8,35.000280609852,135.778695172693
+"161","KYOTO GATTEN  ","酒と肉天ぷら 勝天","Gion Shijo","Tempura","Sushi","￥3000～￥3999","￥1000～￥1999",3.09,3.06,3.18,11,35.0040634027413,135.770918699917
+"162","Figerasu  ","フィゲラス","Gion Shijo","Spain","Bar","￥5000～￥5999",NA,3.06,3.06,NA,14,35.0047133675842,135.772886006607
+"163","LOTUS  ","スモーク＆グリル ロータス","Shijo","Italian","Izakaya (Tavern)","￥4000～￥4999",NA,3.42,3.42,NA,30,35.0042639780311,135.757373982236
+"164","Saredokafe  ","saredoかふぇ","Kyoto","Cafe","Crepes","￥1000～￥1999","￥1000～￥1999",3.11,3,3.12,21,34.9890664307592,135.757022211173
+"165","Kushinobou  ","串の坊 京都駅店","Kyoto","Kushi-age (Fried Skewer)",NA,"￥4000～￥4999","￥1000～￥1999",3.06,3.07,3,22,34.98607954286,135.757872000343
+"166","Kaisendokoroichi  ","海鮮処　一","Karasuma","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.08,3.09,NA,5,35.0072254458004,135.764121618828
+"167","Kyuushuunecchuuya  ","九州 熱中屋 四条大宮 LIVE","Omiya","Izakaya (Tavern)","Dumplings","￥3000～￥3999",NA,3.08,3.09,3.04,12,35.0047043374916,135.74884411481
+"168","Nosutarujia  ","ノスタルジア","Kyoto Shiyakusho Mae","Dining bar","Italian","￥3000～￥3999",NA,3.04,3.04,NA,14,35.0100432814247,135.768785546195
+"169","sakesakanatanagokoro  ","酒・肴 タナゴコロ","Gojo","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999",NA,3.06,3.06,NA,9,34.9977994824742,135.762570792723
+"170","mo-shondaina-  ","MOTION DINER KYOTO","Kyoto Shiyakusho Mae","Cafe","Burger","￥2000～￥2999","￥1000～￥1999",3.12,3.05,3.12,19,35.0079904252289,135.767628236827
+"171","Sumibikushiyakitsujiya  ","つじや 四条御幸町店","Kawaramachi","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999",NA,3.05,3.05,NA,10,35.0029592732293,135.766284691163
+"172","Tenshinchashitsu  ","點心茶室 京都店","Kyoto","Shanghai Cuisine","Cantonese Cuisine","￥3000～￥3999","￥1000～￥1999",3.54,3.51,3.52,52,34.9858540036173,135.757424825642
+"173","Haiborubakyoutokarasumaichikyuuniisan  ","ハイボールバー京都烏丸1923","Karasuma","Bar","Bar","￥2000～￥2999","￥2000～￥2999",3.22,3.22,NA,4,35.0046028542619,135.758724410036
+"174","Oumigyuuyakinikumeitokuya  ","近江牛焼肉 銘特屋","Jujo","Yakiniku (BBQ Beef)",NA,"￥4000～￥4999",NA,3,3,3.04,2,34.9695735185194,135.757181706528
+"175","Mukadeya  ","百足屋 本店","Karasuma","Kyoto Cuisine","Japanese food (other)","￥6000～￥7999","￥3000～￥3999",3.07,3,3.08,21,35.005659231154,135.756468653259
+"176","Hanagokoro  ","花ごころ","Hanazono","Kyoto Cuisine","Shojin Cuisine (Buddhist Cuisine)","￥3000～￥3999","￥1000～￥1999",3.08,3.09,3.06,11,35.0211042512664,135.721942974391
+"177","Rakuza  ","楽坐 京都本店","Kyoto","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.22,3.22,NA,29,34.988146543692,135.75785468439
+"178","Monakadou  ","もなか堂","Kawaramachi","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999",NA,3.07,3.08,NA,10,35.0046222883179,135.769911094623
+"179","kyoutoayanokoujimangetsunohana  ","京都綾小路 満月の花","Karasuma","Sweets","Japanese food (other)","￥2000～￥2999"," ～￥999",3.26,3.09,3.21,26,35.0025617701124,135.763672148658
+"180","shunsaibaruiberiko  ","旬彩バル イベリコ","Sanjo","Dining bar","Creative cuisine","￥3000～￥3999",NA,3.05,3.05,NA,4,35.0075957803491,135.769639476852
+"181","Ikiikiudon  ","いきいきうどん 京都店","Karasuma Oike","Udon","Japanese food (other)"," ～￥999"," ～￥999",3.18,3.09,3.14,47,35.0112104746148,135.758368024296
+"182","zasera-kyouto  ","The Cellar KYOTO","Kyoto Shiyakusho Mae","Dining bar","Kappo (Traditional Japanese)","￥6000～￥7999",NA,3.05,3.05,NA,2,35.0093689200271,135.769410525339
+"183","Daikokuebisu  ","大黒戎","Saiin","Yakiniku (BBQ Beef)","Korean cuisine","￥4000～￥4999",NA,3.06,3.06,NA,15,35.0033844419695,135.73084039301
+"184","kaitoshirowainnobarukakimaru  ","貝と白ワインのバル KAKIMARU 七条店","Kyoto","Bar","Italian","￥3000～￥3999",NA,3,3,NA,8,34.9893858083232,135.755149018704
+"185","chisouyouga  ","馳走 陽雅","Gojo","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥6000～￥7999",3.63,3.61,3.51,8,34.9940370483543,135.759205967623
+"186","Kushiyamonogatari  ","串家物語 京都ヨドバシ店","Kyoto","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥2000～￥2999","￥1000～￥1999",3,3,3.01,14,34.9881307373069,135.759300676139
+"187","nihonshubarujinsuke  ","日本酒バル JINSUKE","Karasuma","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.05,3.05,NA,8,35.0026117668848,135.763793525165
+"188","Hanatanuki  ","花たぬき 御池店","Nishioji Oike","Izakaya (Tavern)","Okonomiyaki","￥3000～￥3999",NA,3.01,3.01,NA,11,35.011192518789,135.732162145963
+"189","izakayaba-shiba  ","居酒屋BAR SIBA","Gion Shijo","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.03,3.03,NA,2,35.0048497374475,135.772631854769
+"190","Satsumagokamon  ","薩摩ごかもん 京都四条烏丸本店","Karasuma","Izakaya (Tavern)","Sukiyaki","￥3000～￥3999"," ～￥999",3.07,3.09,3,27,35.0040723797291,135.760114596783
+"191","Kyoutoyamanashiyakitorikanazawa  ","京都山科 焼鳥 かなざわ","Keihan Yamashina","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.06,3.06,NA,36,34.9913314236335,135.818192026742
+"192","Himiko  ","卑弥呼 舞鶴","Higashi Maizuru","Izakaya (Tavern)","Seafood","￥4000～￥4999","￥1000～￥1999",3.12,3.08,3.21,29,35.4756594489946,135.394954321689
+"193","koshitsuichiammasamunebettei  ","個室 一庵正宗 別邸 京都木屋町店 ","Gion Shijo","Izakaya (Tavern)","Dining bar","￥2000～￥2999","￥2000～￥2999",3.06,3.06,NA,2,35.0048052648707,135.770748957635
+"194","CHULETA  ","チュレタ","Gion Shijo","Spain","Bar","￥5000～￥5999","￥1000～￥1999",3.58,3.58,3.06,24,35.004132038915,135.772773820467
+"195","GRILL&PUB The NICK STOCK  ","GRILL&PUB The NICK STOCK 三条河原町店","Sanjo","Steak","Bar","￥2000～￥2999","￥1000～￥1999",3,3.06,3,19,35.008732885782,135.769916345949
+"196","Choushuuryourikyoumon  ","町衆料理 京もん","Sanjo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3.07,3.08,NA,34,35.0092956151734,135.770592097252
+"197","Brochette  ","ブロシェット","Karasuma Oike","Western (Others)","French","￥3000～￥3999","￥1000～￥1999",3.55,3.54,3.51,44,35.0103900554259,135.761151164263
+"198","Ilifune  ","ilifune","Jingu Marutamachi","Dining bar","Italian","￥3000～￥3999",NA,3.06,3.06,NA,1,35.0167886687495,135.768654135428
+"199","Satsuki  ","さつき","Kyoto Shiyakusho Mae","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999",NA,3.51,3.51,NA,5,35.0118947848042,135.770775017945
+"200","Kaitoshirowainnobarukakimaru  ","貝と白ワインのバル KAKIMARU 西院店","Saiin","Bar","Izakaya (Tavern)","￥3000～￥3999",NA,3.04,3.04,NA,3,35.0023837266776,135.731470386764
+"201","Sandaimetorimero  ","三代目 鳥メロ 四条烏丸店","Shijo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3,3,NA,2,35.0039504023623,135.757482876519
+"202","Furenchibado  ","フレンチバード","Kyoto Shiyakusho Mae","French","Bistro","￥4000～￥4999","￥1000～￥1999",3.06,3.06,NA,11,35.0136922748397,135.765308722494
+"203","BISTRO BAR A VIN  C  ","ビストロ セー","Shijo","Bistro","Seafood","￥2000～￥2999","￥3000～￥3999",3.51,3.51,3.1,49,35.0013962432629,135.758178491902
+"204","Figerasu  ","フィゲラス 烏丸店","Karasuma","Spain","Bar","￥3000～￥3999",NA,3.04,3,3.06,11,35.0062093790221,135.760437804883
+"205","Sorekaraayanokouji  ","それから 綾小路","Shijo","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999",NA,3,3,NA,10,35.0024459092234,135.761385121707
+"206","nikugaumaikafenikkusutokku  ","肉が旨いカフェ NICK STOCK イオンモールKYOTO店","Toji","Cafe","Steak","￥1000～￥1999","￥1000～￥1999",3.19,3.11,3.09,17,34.9831039778838,135.755014596872
+"207","Teppankushiyakisakura  ","鉄板串焼き 咲蔵","Chushojima","Izakaya (Tavern)","Teppanyaki","￥3000～￥3999"," ～￥999",3.05,3.04,3.05,7,34.9304169208423,135.759897728248
+"208","TORIBUN  ","炭焼家 酉文","Kawaramachi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999","￥1000～￥1999",3.02,3.02,3.02,10,35.0040039412769,135.769580202706
+"209","Supuringubareburuwarikyouto  ","スプリングバレーブルワリー 京都","Kawaramachi","Dining bar","Cafe","￥3000～￥3999","￥1000～￥1999",3.53,3.52,3.43,36,35.0054145412285,135.764856918916
+"210","Bistro SUMIRE Chinese   ","Bistro SUMIRE Chinese ","Gion Shijo","Chinese","Dim sum","￥8000～￥9999",NA,3.35,3.35,NA,13,35.0018691814228,135.77025635595
+"211","Bisutoroemuiaru  ","ビストロMER","Gion Shijo","Bistro","Italian","￥4000～￥4999",NA,3.48,3.48,NA,20,35.0058615735432,135.772624864318
+"212","Daitouryou  ","大當両","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥4000～￥4999",3.08,3.05,3.13,16,35.0046850072479,135.771166428501
+"213","Nagomijun  ","和 旬゛","Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥3000～￥3999",3.15,3.15,3.05,16,35.0048941434939,135.754802777872
+"214","Hiroya  ","ひろや","Kurama","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥15000～￥19999","￥15000～￥19999",3.59,3.59,3.57,51,35.1224245875838,135.763415575783
+"215","Kenedhikurabu  ","ケネディクラブ","Sanjo","Bar","Italian","￥3000～￥3999",NA,3.04,3.04,NA,2,35.0101227508598,135.770702883301
+"216","zensekikoshitsuizakayataketorinoneiro  ","全席個室居酒屋 竹取の音色 京都駅前店","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3,3,NA,10,34.9873619562937,135.760768922931
+"217","Miho  ","味峯 四条壬生店","Shijo Omiya","Izakaya (Tavern)","Okinawan Cuisine","￥3000～￥3999",NA,3.12,3.12,NA,20,35.0034141056446,135.743572945316
+"218","Chabana  ","ちゃばな  七条新町店","Kyoto","Okonomiyaki","Izakaya (Tavern)","￥2000～￥2999",NA,3.01,3.01,NA,8,34.9893539073314,135.757441329796
+"219","Akayashiro  ","あかやしろ","Tambaguchi","Horumon (BBQ Offel)","Yakiniku (BBQ Beef)","￥4000～￥4999",NA,3.52,3.52,3.03,37,34.9936908501078,135.736194839079
+"220","Sousakukoshitsuizakayasugiurakyoutoekimaeshichijouten  ","創作個室居酒屋すぎうら 京都駅前七条店","Shichijo","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.18,3.18,NA,2,34.989451476559,135.762002057647
+"221","Sakanayariichi  ","酒肴菜や 利一","Keihan Yamashina","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.05,3.05,NA,10,34.9910711240413,135.815349219266
+"222","yasaidainingukusushi  ","野菜ダイニング 薬師","Sanjo","Vegetable dishes","Izakaya (other)","￥3000～￥3999",NA,3.05,3.06,NA,5,35.0084462392183,135.769311964896
+"223","nikuyanodaidokoro  ","肉屋の台所 京都木屋町ミート","Sanjo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999","￥1000～￥1999",3,3,3.03,6,35.0082829459208,135.770604087326
+"224","Miyagawachousaka  ","宮川町 さか","Gion Shijo","Italian","French","￥20000～￥29999","￥10000～￥14999",3.09,3.09,NA,11,34.9991239314915,135.770942814225
+"225","Kashiwa  ","かしわ 祇園豆六小路","Gion Shijo","Yakitori (Grilled chicken)","Fowl","￥3000～￥3999",NA,3.06,3.06,NA,11,35.0052630628078,135.774706385671
+"226","Iorisantouka  ","庵 山頭火","Emmachi","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.05,3.05,NA,5,35.0173968112083,135.7296451249
+"227","Kyuushuunecchuuya  ","九州 熱中屋 桂 LIVE","Katsura","Izakaya (Tavern)","Dumplings","￥3000～￥3999",NA,3.03,3.03,NA,3,34.9796412396191,135.704267304194
+"228","kyoutokushidokoroazumaya  ","京都串処東屋","Sanjo","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥1000～￥1999",NA,3,3,NA,1,35.0072069503946,135.770632467843
+"229","Chizutakkarubitonichinandorisachi  ","チーズタッカルビと日南どり 幸","Saiin","Izakaya (Tavern)","Bar","￥3000～￥3999",NA,3.04,3.04,NA,3,35.0030103264823,135.731479523822
+"230","Shunsaifujii  ","旬菜 ふじ井","Kitaoji","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥5000～￥5999",3.35,3.35,NA,6,35.0433171469793,135.761285414868
+"231","Hitotose  ","ひととせ","Kyoto","Japanese food (other)","Izakaya (Tavern)","￥3000～￥3999",NA,3,3,NA,3,34.9894061814444,135.760732165197
+"232","Bairan  ","梅蘭 イオンモール京都桂川店","Katsuragawa","Chinese","Dim sum","￥1000～￥1999"," ～￥999",3.12,3.1,3.07,29,34.9638660290022,135.706929476087
+"233","Setsugekka  ","雪月花","Kyoto Shiyakusho Mae","Bar","Lounge","￥2000～￥2999",NA,3.13,3.13,3.06,35,35.0088372302662,135.764832596683
+"234","yakinikutobi-ruichibakouji  ","焼肉とビール 市場小路 四条烏丸店","Karasuma","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999","￥1000～￥1999",3.06,3.05,3.06,4,35.0041026546082,135.760134038219
+"235","Sandaimetorimero  ","三代目 鳥メロ 四条大宮店","Shijo Omiya","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3.04,3.04,3.04,5,35.0039008051422,135.748432797077
+"236","zensekikoshitsuizakayatsukinokakehashi  ","全席個室居酒屋 月のかけはし 京都駅前店","Kyoto","Izakaya (Tavern)","Regional Cuisine (Other)","￥3000～￥3999",NA,3,3,NA,6,34.9874163946048,135.760751144123
+"237","tounyuutonshabutoratarou  ","豆乳とんしゃぶ 寅太郎","Shijo","Kaiseki (Traditional Japanese)","Shabu Shabu (Japanese Steamboat)","￥5000～￥5999","￥3000～￥3999",3,3,3.06,31,35.0014854399394,135.760442744194
+"238","Dainingunagomi  ","Dining Nagomi 山科店","Keihan Yamashina","Izakaya (Tavern)","Japanese food (other)","￥2000～￥2999",NA,3,3,NA,8,34.9896417987219,135.813416667795
+"239","Mossannobetayaki  ","モッさんのべた焼","Sai","Okonomiyaki","Horumon (BBQ Offel)","￥2000～￥2999"," ～￥999",3.51,3.51,3.06,19,35.0030579623755,135.73955107351
+"240","gionnotonjiruyasanadachiya  ","ぎおんの豚汁屋さん あだち家","Gion Shijo","Regional Cuisine (Other)","Nihonshu (Japanese sake)","￥3000～￥3999",NA,3.15,3.15,NA,11,35.0046578468005,135.774536705406
+"241","Gottie'sBEEF  ","ゴッチーズビーフ 四条木屋町","Gion Shijo","Steak","Yakiniku (BBQ Beef)","￥4000～￥4999","￥1000～￥1999",3.09,3.09,3.07,50,35.0042139376688,135.770659547842
+"242","pasutakorekushonandoba-dougetsuneo  ","Pasta Collection &  Bar 道月neo","Shijo","Izakaya (Tavern)","Pasta","￥4000～￥4999","￥1000～￥1999",3.43,3.09,3.52,9,35.0023747986738,135.760981825142
+"243","Shougetsu  ","将月 河原町店","Kawaramachi","Okonomiyaki","Teppanyaki","￥2000～￥2999"," ～￥999",3.08,3.09,3.07,22,35.0067669680697,135.768950127822
+"244","Kampaiboupuruda  ","韓杯房 PURUDA. 三条木屋町店","Sanjo","Korean cuisine","Yakiniku (BBQ Beef)","￥3000～￥3999",NA,3,3,NA,4,35.010283845264,135.770732873394
+"245","teppandainingugionshou  ","鉄板Dining祇園 翔 四条烏丸店","Karasuma","Izakaya (Tavern)","Italian","￥2000～￥2999",NA,3.03,3.03,3,2,35.0047547729186,135.758178337282
+"246","Sajiki  ","桟敷","Karasuma","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999",NA,3,3,NA,21,35.0062516368031,135.762732301268
+"247","gansochiriteppanyakimotsunabeakachiriya  ","元祖 ちり鉄板焼×もつ鍋 赤ちり屋 京都駅八条口店","Kyoto","Motsu Nabe (Offel Hot Pot)","Izakaya (Tavern)","￥3000～￥3999",NA,3.02,3.03,3,12,34.9830487933671,135.760015850726
+"248","Nikumon  ","肉もん","Omiya","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥3000～￥3999",NA,3,3,NA,11,35.0043274276467,135.748516937114
+"249","pontochouyakinikuyaruki  ","先斗町焼肉　やる気","Sanjo","Yakiniku (BBQ Beef)","Bar","￥3000～￥3999",NA,3.06,3.06,NA,4,35.0075863598508,135.770952701556
+"250","BAR-CERVECERIA xativa  ","シャティバ","Kyoto Shiyakusho Mae","Spain","Bar","￥3000～￥3999",NA,3.45,3.45,NA,12,35.0130748179604,135.770174741391
+"251","Ginnan  ","ぎんなん","Kyoto","Izakaya (Tavern)","Tofu","￥4000～￥4999",NA,3.05,3.05,NA,11,34.9893875390549,135.758827324252
+"252","Kyuushuunecchuuya  ","九州 熱中屋 伏見桃山 LIVE","Fushimi Momoyama","Izakaya (Tavern)","Dumplings","￥3000～￥3999",NA,3,3,NA,6,34.9332650315496,135.764592762749
+"253","konken  ","コンケン","Kawaramachi","Thailand cooking","Izakaya (Tavern)","￥1000～￥1999"," ～￥999",3.12,3.09,3.08,7,35.0047954829718,135.767272580132
+"254","Yakinikuhorumonanju  ","焼肉･ホルモン あんじゅ","Karasuma","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999",NA,3,3,NA,5,35.0050667494906,135.761928011508
+"255","Yamabanaheihachidiya  ","山ばな平八茶屋","Shugakuin","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥4000～￥4999",3.56,3.54,3.48,29,35.0540652185977,135.791069150017
+"256","Idutsuya  ","いづつ家 三条店","Karasuma Oike","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.28,3.28,3,9,35.0094799167364,135.763540729937
+"257","Kyouyoushokumatsumoto  ","京洋食　まつもと","Karasuma","Western Cuisine","French","￥4000～￥4999","￥1000～￥1999",3.33,3.12,3.43,20,35.0062209598182,135.755592651184
+"258","Ashuckurk  ","アシュクルク","Demachiyanagi","Bistro","Bar","￥3000～￥3999",NA,3,3,NA,7,35.0282667028448,135.774100099116
+"259","ITALIAN BAR MODERNTIMES  ","イタリアンバール モダンタイムス","Marutamachi","Italian","Pizza","￥2000～￥2999"," ～￥999",3.29,3.16,3.27,15,35.0134296607426,135.75716857729
+"260","Aiyoxtsu  ","あいよっ！","Karasuma Oike","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥1000～￥1999"," ～￥999",3.05,3.05,3.04,5,35.0083908126893,135.760456591774
+"261","Chanchi  ","チャンチ 京都店 ","Kyoto","Korean cuisine","Izakaya (Tavern)","￥2000～￥2999"," ～￥999",3.46,3.05,3.46,34,34.9882018356172,135.759003197571
+"262","SHUKURA  ","酒蔵","Sanjo","Bar","Nihonshu (Japanese sake)","￥3000～￥3999",NA,3.06,3.06,NA,5,35.0083132271355,135.770986276413
+"263","mikusoroji-ba-sumu-su  ","mixologybar smooth","Gion Shijo","Bar","Dining bar","￥2000～￥2999",NA,3.05,3.05,NA,3,35.0048785884352,135.770638685639
+"264","Kinugawa  ","きぬがわ","Gojo","Kappo (Traditional Japanese)","Shabu Shabu (Japanese Steamboat)","￥6000～￥7999","￥2000～￥2999",3.42,3.42,NA,8,34.9965550946793,135.758193991288
+"265","Momojirou  ","ももじろう 今出川百万遍店","Demachiyanagi","Izakaya (Tavern)","Seafood","￥2000～￥2999",NA,3.01,3.01,NA,6,35.0286314545673,135.778022534342
+"266","daikouen  ","大香園","Tambaguchi","Yakiniku (BBQ Beef)","Korean cuisine","￥4000～￥4999",NA,3.21,3.21,NA,16,34.9987151466086,135.742588521201
+"267","Gounotora  ","五黄の寅","Shijo","Izakaya (Tavern)","Nihonshu (Japanese sake)","￥3000～￥3999",NA,3.16,3.16,NA,9,35.0025508204389,135.756944652324
+"268","Bejotamuamua  ","ベジョータ ムアムア 烏丸三条店","Karasuma Oike","Bar","Western (Others)","￥3000～￥3999",NA,3.1,3.1,NA,16,35.0085174661826,135.760477973056
+"269","Ichibakouji  ","市場小路 寺町本店","Kawaramachi","Izakaya (Tavern)","Steak","￥3000～￥3999","￥1000～￥1999",3.51,3.5,3.5,69,35.0052579227962,135.766659276441
+"270","shioriyaichie  ","栞屋一會","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Nihonshu (Japanese sake)","￥4000～￥4999",NA,3.07,3.07,3.07,19,35.0112406861844,135.770665334948
+"271","Kitayama  ","きた山 本店","Gion Shijo","Hot Pot (other)","Kyoto Cuisine","￥5000～￥5999","￥2000～￥2999",3.02,3.02,NA,5,35.002975569942,135.770782932183
+"272","Tempurashinjukutsunahachi  ","天ぷら新宿つな八 京都店","Kawaramachi","Tempura","Kaiseki (Traditional Japanese)","￥4000～￥4999","￥1000～￥1999",3.02,3.02,3.02,17,35.0032062235375,135.768132581881
+"273","yakinikuajidouraku  ","焼肉味道楽","Higashi Maizuru","Yakiniku (BBQ Beef)","Seafood","￥3000～￥3999",NA,3.06,3.06,NA,2,35.469724811884,135.395291789126
+"274","IL TOBANCHI  ","イル トバンキ","Karasuma Oike","Bar","Italian","￥3000～￥3999",NA,3.18,3.16,3.08,15,35.0081926739393,135.75448043055
+"275","Shikinoajisugiura  ","四季の味すぎうら 蛸薬師店","Karasuma","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.15,3.14,3.07,17,35.0063332547144,135.760440854482
+"276","Kyoutoyakitoriseisakujo  ","京都焼鳥製作所","Kawaramachi","Yakitori (Grilled chicken)","Fowl","￥3000～￥3999",NA,3.29,3.29,NA,17,35.0025548324267,135.766148745556
+"277","arashiyamakushibun  ","嵐山 串文","Shijo","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥3000～￥3999",NA,3.21,3.21,3.02,14,35.0035746010211,135.757013210605
+"278","Toriasa  ","鳥あさ","Karasuma","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999"," ～￥999",3.09,3.08,3.13,23,35.004073490731,135.760115152241
+"279","zensekikoshitsuizakayawazakurahitohira  ","全席個室居酒屋 和桜ひとひら 京都駅前店","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.02,3.02,NA,11,34.989950559467,135.760263012429
+"280","saredowa  ","310 saredowa","Kyoto","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999",NA,3.38,3.38,NA,11,34.9885642285296,135.755091561303
+"281","gyokouchokusoukaisensakabaanji  ","漁港直送 海鮮酒場 あんじ 麩屋町綾小路店","Kawaramachi","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.53,3.53,3,83,35.0025773585975,135.765652816779
+"282","Rejon  ","レジョン","Kawaramachi","French","Bistro","￥4000～￥4999","￥1000～￥1999",3.4,3.33,3.15,5,35.0043410421313,135.764696148361
+"283","Maruichi  ","まるいち","Sanjo","Yakiniku (BBQ Beef)","Korean cuisine","￥4000～￥4999",NA,3.02,3.02,NA,13,35.0076641169787,135.770246645503
+"284","Osakenobijutsukan  ","お酒の美術館 河原町三条店","Kyoto Shiyakusho Mae","Bar","Dining bar","￥1000～￥1999","￥1000～￥1999",3.06,3.06,3.04,6,35.0085134524901,135.769211136841
+"285","wainandooyasaibarubejibaru  ","ワイン＆お野菜バル ベジバル","Shijo","Italian","Wine bar","￥4000～￥4999","￥2000～￥2999",3.51,3.51,3.24,33,35.0027690463108,135.756766378431
+"286","kaitoshirowainnobarukakimaru  ","貝と白ワインのバル KAKIMARU 綾小路店","Kawaramachi","Bar","Izakaya (Tavern)","￥3000～￥3999",NA,3.31,3.31,NA,10,35.00251012759,135.764738173613
+"287","Yudoufutakemura  ","湯どうふ 竹むら","Arashiyama","Tofu","Yuba","￥3000～￥3999","￥3000～￥3999",3.5,3.18,3.52,47,35.0174861567175,135.676820063458
+"288","ajiromanishigamatei  ","味浪漫いしがま亭","Gion Shijo","Izakaya (Tavern)","Kyoto Cuisine","￥4000～￥4999","￥1000～￥1999",3.12,3.07,3.21,27,35.0021249893934,135.770370779114
+"289","Giombansankyoushoku  ","祇園 晩餐 京色","Gion Shijo","Izakaya (Tavern)","Tempura","￥5000～￥5999",NA,3,3,NA,5,35.0047439357398,135.773794540857
+"290","Kyouhorumonhana  ","京ホルモン花","Kujo","Izakaya (Tavern)","Horumon (BBQ Offel)","￥2000～￥2999",NA,3.06,3.06,NA,10,34.9816927982727,135.758354384477
+"291","Bar PLAYGROUND  ","バル　プレイグラウンド","Imadegawa","Bar","Wine bar","￥3000～￥3999","￥1000～￥1999",3.06,3.06,3.05,2,35.0295642817079,135.754755257071
+"292","Kyameron  ","キャメロン","Kawaramachi","Steak","French","￥6000～￥7999","￥2000～￥2999",3.07,3,3.08,50,35.0007170141562,135.766347289201
+"293","Sumibikazuya  ","炭火 かず家","Kawaramachi","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.51,3.51,3.06,21,35.0050144006436,135.770260932981
+"294","Kandumebaruamichi  ","缶詰BAL Amici","Karasuma","Bar","Izakaya (Tavern)","￥3000～￥3999"," ～￥999",3.05,3.06,NA,2,35.0063553793326,135.7549885285
+"295","Ikkakujuu  ","いっかくじゅう 烏丸店","Shijo","Izakaya (Tavern)","Teppanyaki","￥3000～￥3999",NA,3.29,3.29,3,17,35.0024820185196,135.761502332533
+"296","Jounetsushokusaikyoushoku  ","情熱食彩 京色","Kawaramachi","Seafood","Kyoto Cuisine","￥4000～￥4999",NA,3.08,3.08,3.08,31,35.0033479812571,135.766979284898
+"297","Yakinikumarutomi  ","焼肉まる富 四条河原町店","Kawaramachi","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥4000～￥4999","￥1000～￥1999",3.06,3.06,NA,3,35.0035826018361,135.769831034607
+"298","toriiebisu  ","魚里ゐ夷","Kyoto","Seafood","Izakaya (Tavern)","￥4000～￥4999",NA,3.51,3.51,3.07,20,34.9828907544875,135.76000280353
+"299","Kyoutokeburikawa  ","京都・烟河","  Kameoka","Ryokan","Auberge","￥8000～￥9999","￥2000～￥2999",3.42,3.49,3.45,27,35.0218892615986,135.499870945225
+"300","Gionyamamoto  ","祇園 山本","Gion Shijo","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥10000～￥14999",3.06,3.06,3.05,2,35.0053383546023,135.775969888382
+"301","Kappouyoshizen  ","割烹 吉膳","Gion Shijo","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥10000～￥14999",3.58,3.56,3.5,16,35.0014552168919,135.779293680016
+"302","Nikuryouritobatoyo  ","肉料理 とばとよ","Karasuma","Beef dishes","Wine bar","￥4000～￥4999"," ～￥999",3.04,3.04,NA,3,35.0064328735181,135.755130179835
+"303","jikidoukagura  ","食堂 かぐら","Nijojo Mae","Kappo (Traditional Japanese)","Izakaya (Tavern)","￥4000～￥4999",NA,3.04,3.04,NA,2,35.0121961386775,135.754713004686
+"304","itaria-nasagura  ","italiana SAGRA","Gion Shijo","Italian","Wine bar","￥8000～￥9999","￥3000～￥3999",3.59,3.6,3.52,76,35.0045350229217,135.771145326048
+"305","Puranchaken  ","プランチャー健","Gion Shijo","Steak","Creative cuisine","￥8000～￥9999",NA,3.53,3.53,NA,10,35.0042977378753,135.776475880344
+"306","Bansankyoushoku  ","BANSAN 京色","Karasuma","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999",NA,3.31,3.31,NA,23,35.0040813327449,135.76384067581
+"307","Azuki  ","あずき","Keihan Yamashina","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3,3,NA,23,34.9901706761905,135.816001428781
+"308","Ichibakouji  ","市場小路 ジェイアール京都伊勢丹店","Kyoto","Dining bar","Creative cuisine","￥4000～￥4999","￥1000～￥1999",3.5,3.45,3.2,68,34.9858523371143,135.757423992455
+"309","Sumikatominokouji  ","棲家・富小路","Kawaramachi","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.52,3.52,3.05,60,35.0043096613632,135.764968904931
+"310","zensekikoshitsuizakayasakurakomachi  ","全席個室居酒屋 桜小町 四条烏丸店","Kawaramachi","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3,3,NA,5,35.0038544390544,135.765356949219
+"311","Imomatsu  ","いも松","Kyoto","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.07,3.07,NA,9,34.9893468710734,135.756372811629
+"312","Rakuchin  ","楽珍","Gion Shijo","Kushi-age (Fried Skewer)","Japanese food (other)","￥6000～￥7999",NA,3.31,3.31,NA,5,35.0045670238658,135.774575873002
+"313","Mogu piatti  ","モグピアッティ","Karasuma Oike","Italian","Bar","￥3000～￥3999","￥1000～￥1999",3.04,3.04,NA,4,35.0085049812238,135.761262630687
+"314","sute-kihausupondo  ","ステーキハウス 听 四条河原町店","Kawaramachi","Steak","Western Food (Other)","￥5000～￥5999","￥1000～￥1999",3.31,3.27,3.1,40,35.0039567310859,135.769979893907
+"315","Taichirouya  ","たいちろうや","Nishikyogoku","Izakaya (Tavern)","Seafood","￥5000～￥5999",NA,3.05,3.05,NA,3,34.991173868241,135.718639746247
+"316","Yakinikuhorumongyuuteruryourianiki  ","焼肉ホルモン・牛テール料理　あにき","Shijo Omiya","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999"," ～￥999",3.14,3.14,3.12,14,35.0033891092207,135.743624608845
+"317","shioriya  ","栞屋 烏丸仏光寺店","Shijo","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.01,3,3.02,25,35.001216019068,135.760142503755
+"318","Bar MICHIya  ","Bar MICHIya","Sanjo","Bar","Bar","￥3000～￥3999",NA,3.26,3.26,NA,46,35.0092109015368,135.77056488119
+"319","Kushidainigusumiyakiromanya  ","浪漫家 四条烏丸店","Shijo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.03,3.03,NA,14,35.0039426316597,135.757840347188
+"320","Daniel's Luce   ","Daniel's Luce ","Kyoto","Italian",NA,"￥3000～￥3999",NA,3.04,3.04,NA,2,34.9877804938527,135.759120984966
+"321","Trattoria La Voce  ","トラットリア ラ・ヴォーチェ","Karasuma","Italian","Pasta","￥4000～￥4999","￥1000～￥1999",3.5,3.13,3.53,76,35.0046017230065,135.757564228663
+"322","Saketosakanatootokomaeshokudou  ","酒と魚とオトコマエ食堂","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999","￥3000～￥3999",3,3,3.03,5,34.9876927501597,135.760535038236
+"323","Karyou  ","迦陵","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥5000～￥5999",3.68,3.72,3.71,56,35.0017880519702,135.774576246268
+"324","Kyoutotawahoteruokujoubiagaden  ","京都タワーホテル 屋上ビアガーデン","Kyoto","Beer garden","BBQ","￥3000～￥3999","￥4000～￥4999",3.04,3.04,3.01,15,34.9874299906819,135.759973708063
+"325","kyouchabana  ","京ちゃばな 南新町店","Kyoto","Okonomiyaki","Izakaya (Tavern)","￥2000～￥2999",NA,3.12,3.12,NA,23,34.9890817057776,135.756957771377
+"326","giwonizakayamomojirou  ","祗園 居酒屋 桃次郎 総本店","Gion Shijo","Izakaya (Tavern)","Seafood","￥5000～￥5999",NA,3.04,3.04,NA,15,35.0058602258918,135.774977446776
+"327","zeppinryokuchadashishabunoomiseiemon  ","絶品 緑茶だししゃぶのお店 煎右衛門","Kyoto","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999",NA,3.06,3.06,NA,5,34.9894075723193,135.760854377206
+"328","Kyo gastronomy KOZO  ","Kyo gastronomy KOZO","Marutamachi","French","Kyoto Cuisine","￥6000～￥7999","￥3000～￥3999",3.06,3.06,3.06,12,35.0163828159497,135.765054453067
+"329","Teramachihambagugokurakutombo  ","寺町ハンバーグ 極楽蜻蛉","Kyoto Shiyakusho Mae","Hamburger Steak","Western Cuisine","￥3000～￥3999","￥1000～￥1999",3.04,3.03,3.04,6,35.0141669829842,135.767409637268
+"330","Karasumarugenkiichiba  ","烏丸元気市場","Karasuma Oike","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.04,3.05,NA,12,35.0103744674258,135.759198271613
+"331","Ikkon  ","いっこん","Nijojo Mae","Kappo (Traditional Japanese)",NA,"￥4000～￥4999",NA,3.06,3.06,NA,4,35.0112701139966,135.753990607315
+"332","Taketorineo  ","竹とりNEO","Kuramaguchi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥4000～￥4999",NA,3.15,3.15,NA,11,35.0378468163278,135.759746961168
+"333","kyouyasaitosousakuryourinakaya  ","京野菜と創作料理 中家","Saiin","Izakaya (Tavern)","Dandan noodles","￥3000～￥3999",NA,3.04,3.04,NA,12,35.0023578901548,135.731129582924
+"334","Grelot  ","グレロ","Gion Shijo","French","Western Cuisine","￥6000～￥7999","￥3000～￥3999",3.45,3.23,3.24,16,35.0018373086887,135.774166588229
+"335","kyoutoteppantachibana  ","京都 鉄板 たちばな","Shijo","Teppanyaki","Okonomiyaki","￥3000～￥3999"," ～￥999",3.03,3.03,3.02,11,35.0014512421299,135.758450411231
+"336","Itameshioriva  ","イタメシOliva","Gion Shijo","Italian","Bar","￥3000～￥3999",NA,3.27,3.27,NA,5,35.0057597431616,135.771006226111
+"337","CRAFT BEER & PIZZA 100K HYAKKEI  ","クラフトビール&ピザ 100K","Kyoto","Italian","Pizza","￥1000～￥1999"," ～￥999",3,3,3,8,34.9893520231614,135.760880488706
+"338","Shunsaidaininguitokoya  ","旬菜ダイニング eーとこ屋","Sanjo","Izakaya (Tavern)","Vegetable dishes","￥3000～￥3999",NA,3.06,3.06,NA,4,35.0074399660058,135.769772528532
+"339","Izakayaanji  ","居酒屋 あんじ 烏丸六角店","Karasuma Oike","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.45,3.45,NA,67,35.0072117782955,135.760809394537
+"340","Bankokugaden  ","バンコクガーデン","Marutamachi","Thailand cooking","Thai Curry","￥2000～￥2999"," ～￥999",3.08,3.02,3.09,34,35.0157125849768,135.763629880014
+"341","Yakinikubaruyaruki  ","焼肉バル やる気 四条河原町店","Kawaramachi","Yakiniku (BBQ Beef)","Bar","￥3000～￥3999",NA,3.06,3.06,NA,4,35.0054373353702,135.769367061125
+"342","Osuteriaebaruporenta  ","オステリア エ バール ポレンタ","Kawaramachi","Italian","Wine bar","￥5000～￥5999",NA,3.53,3.52,3.08,22,35.0006859178841,135.767006402561
+"343","Tajimaya  ","但馬屋 京都ヨドバシ店","Kyoto","Shabu Shabu (Japanese Steamboat)","Sukiyaki","￥2000～￥2999"," ～￥999",3,3.01,3,26,34.9880843488581,135.759041810885
+"344","Torisei  ","鳥せい 京都タワーサンド店","Kyoto","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999"," ～￥999",3.16,3.15,3.07,21,34.9875610768654,135.75934930944
+"345","Old School wine and spirits  ","Old School wine and spirits","Kyoto Shiyakusho Mae","Dining bar","Bar","￥3000～￥3999",NA,3.06,3.06,NA,6,35.0120894040715,135.76607262174
+"346","Tsubakurosupponshokudou  ","ツバクロ　すっぽん食堂   京都店","Sanjo","Suppon (Soft-shelled Turtle)","Hot Pot (other)","￥4000～￥4999",NA,3.09,3.09,NA,23,35.0102819004551,135.770700098427
+"347","Rudensu  ","ルーデンス","Marutamachi","Italian","Vegetable dishes","￥10000～￥14999","￥5000～￥5999",3.46,3.46,3.06,4,35.0139657947104,135.761760115723
+"348","zensekikoshitsuizakayataketorigoten  ","全席個室居酒屋 竹取御殿 山科駅直結店","Keihan Yamashina","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3,3,NA,6,34.9915094340712,135.816699086979
+"349","Arata  ","あらた 四条堀川店","Omiya","Okonomiyaki","Teppanyaki","￥2000～￥2999"," ～￥999",3.3,3.3,NA,3,35.0037826261259,135.752575088963
+"350","Hachisei  ","八清","Tambaguchi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥2000～￥2999",3.02,3.03,3.02,4,34.9951733748197,135.746687788271
+"351","Sentojemusukurabu  ","SENT JAMES CLUB 本店","Gion Shijo","Bar",NA,"￥2000～￥2999",NA,3.09,3.1,3.02,47,35.0028213092513,135.770682665597
+"352","Kyoutonishikitempurasakabataneshichi  ","京都 錦 天ぷら酒場 たね七","Karasuma","Tempura","Izakaya (Tavern)","￥2000～￥2999"," ～￥999",3.06,3.06,3.06,12,35.0047299012145,135.763226478858
+"353","Roti Chicken&Jackie Tacos  ","ロテイー チキンアンドジャッキー タコス","Shijo","Mexico cuisine","Bar","￥2000～￥2999","￥1000～￥1999",3.53,3.5,3.52,67,35.0004287056027,135.760199999643
+"354","Gurugurudon  ","グルグルどん","Nijo","Okonomiyaki","Teppanyaki","￥2000～￥2999"," ～￥999",3.05,3.05,NA,1,35.0123167108515,135.740500012855
+"355","Rohan  ","露飯","Karasuma","Izakaya (Tavern)","Seafood","￥2000～￥2999",NA,3.05,3.05,NA,11,35.0052369832686,135.760451459631
+"356","Jukuseiyakinikupondo  ","熟成焼肉 听 京都駅前店","Kyoto","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999","￥1000～￥1999",3.13,3.12,3.06,14,34.9891072870517,135.758586801575
+"357","kyoumachiyaitarianronkusu  ","京町家イタリアンろんくす","Kawaramachi","Italian","Sumibiyaki","￥5000～￥5999","￥2000～￥2999",3,3,3.05,15,35.0003212201544,135.766175377257
+"358","Shunkouhinaka  ","旬肴　ひなか","Gion Shijo","Kappo (Traditional Japanese)","Kyoto Cuisine","￥5000～￥5999",NA,3.05,3.05,NA,9,35.0048563722425,135.770847835959
+"359","Fujiwara  ","ふじ原","Gion Shijo","Kappo (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999",NA,3.55,3.54,3.12,20,35.0045742678926,135.77586854309
+"360","Tarou  ","太郎","Imadegawa","Kappo (Traditional Japanese)","Seafood","￥3000～￥3999"," ～￥999",3.02,3.03,NA,6,35.0242467837948,135.754118610327
+"361","Osakekafepuchipuchi  ","おさけcafe petit * petit","Kawaramachi","Nihonshu (Japanese sake)","Cafe","￥2000～￥2999",NA,3.05,3.05,NA,4,35.0065819395963,135.766187032479
+"362","MAWARI  ","近江牛食べ放題 焼肉 囘 河原町店","Kawaramachi","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999",NA,3,3,NA,9,35.0065861638027,135.769507034336
+"363","Oumiyaseiemon  ","近江屋清右衛門","Marutamachi","European-style Curry","Curry rice","￥1000～￥1999","￥1000～￥1999",3.54,3.3,3.53,97,35.0175594520648,135.754607766489
+"364","Sanji  ","さんじ","Marutamachi","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999"," ～￥999",3.05,3.05,NA,13,35.013811914261,135.761300994272
+"365","Kyouryourimaiko  ","京料理 舞妓","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥3000～￥3999",3.01,3.01,NA,9,35.002949205254,135.774788811343
+"366","waingurashiori  ","Wine蔵しおり","Kyoto","Wine bar","Izakaya (Tavern)","￥4000～￥4999",NA,3,3,NA,2,34.9891792115284,135.757884078847
+"367","HOMURA  ","あかやしろ 焔","Sai","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999",NA,3.28,3.28,NA,28,35.0034547821889,135.734845890448
+"368","Wine Bar Musée  ","ワインバー ミュゼ","Karasuma","Wine bar","Italian","￥6000～￥7999",NA,3.21,3.21,NA,22,35.0042900870239,135.757412588939
+"369","Gokoumachiono  ","御幸町ONO","Kawaramachi","Izakaya (Tavern)","Oden","￥4000～￥4999",NA,3.22,3.22,3.04,6,35.0041808090447,135.766273524737
+"370","Hamachou  ","浜町","Sanjo","Kaiseki (Traditional Japanese)","Izakaya (Tavern)","￥5000～￥5999","￥4000～￥4999",3.47,3.47,NA,51,35.0092758869736,135.770129081058
+"371","osakenobijutsukankyoutosanjoukarasumaretoropabu  ","お酒の美術館 京都三条烏丸レトロパブ","Karasuma Oike","Bar","Pub","￥1000～￥1999"," ～￥999",3.07,3.07,3.08,14,35.0088371264815,135.758890312416
+"372","Sumibiyakinikuou  ","炭火焼肉 王","Nishioji Sanjo","Korean cuisine","Yakiniku (BBQ Beef)","￥5000～￥5999",NA,3.06,3.07,NA,8,35.0098315859985,135.734037330666
+"373","Kichiri  ","KICHIRI 河原町","Kawaramachi","Izakaya (Tavern)","Dining bar","￥3000～￥3999",NA,3.02,3.02,NA,31,35.0058020791253,135.769399579361
+"374","kyouyakiyomizuhonke  ","京家 きよみず 本家","Karasuma","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.41,3.41,NA,20,35.002351241466,135.763923526363
+"375","Itariankuatoro  ","ITALIAN QUATRO 京都駅前店","Kyoto","Italian",NA,"￥3000～￥3999","￥1000～￥1999",3.04,3,3.06,45,34.987430208611,135.75654871472
+"376","fu-zuba-shioriya  ","Foods bar 栞屋","Fushimi Momoyama","Izakaya (Tavern)","Seafood","￥3000～￥3999","￥1000～￥1999",3.08,3.09,3.02,27,34.9322170439724,135.762067187416
+"377","SinSin  ","飲茶BAR シンシン","Shijo","Bar","Chinese","￥2000～￥2999",NA,3.14,3.14,NA,9,35.0042709223101,135.757407034727
+"378","Kyoukarasuma  ","KYOU 饗 Karasuma","Marutamachi","Kappo (Traditional Japanese)","Shabu Shabu (Japanese Steamboat)","￥5000～￥5999","￥2000～￥2999",3.04,3.01,3.05,3,35.0170448658086,135.759240738747
+"379","konana  ","こなな 四条店","Karasuma","Pasta","Cafe","￥1000～￥1999","￥1000～￥1999",3,3.05,3,21,35.0048187081379,135.761222248208
+"380","Eijuan  ","栄寿庵","Kyoto","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3,3.04,3,6,34.9868944053945,135.754991924237
+"381","Youfuushuzenumakarou  ","洋風酒膳うまかろう","Higashi Muko","Izakaya (Tavern)","Dining bar","￥2000～￥2999",NA,3,3,NA,1,34.9523586518418,135.707107768878
+"382","kyoutogyuukaisekiinayoshi  ","京都牛懐石 稲吉","Gion Shijo","Kaiseki (Traditional Japanese)","Beef dishes","￥10000～￥14999","￥3000～￥3999",3.52,3.5,3.38,36,35.0061859589746,135.771232742776
+"383","Sumibikushiyakitsujiya  ","炭火串焼 つじや 本店","Marutamachi","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999"," ～￥999",3.19,3.14,3.1,29,35.0147078952308,135.759336949466
+"384","Koji  ","Cozy","Nijojo Mae","Western Cuisine","Buffet style","￥4000～￥4999","￥2000～￥2999",3.21,3.06,3.39,60,35.0126843848362,135.752712037275
+"385","Iharada  ","いはら田","Tambaguchi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999",NA,3.91,3.91,NA,52,34.9905304922927,135.732212095897
+"386","gionkurashita  ","祇園 くらした","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥3000～￥3999",3.39,3.41,3.02,20,35.0024242162741,135.775650326871
+"387","Furenchimanjunia  ","フレンチマンJr","Shijo","Bistro","Seafood","￥3000～￥3999",NA,3.39,3.34,3.12,9,35.0021886585341,135.758180121949
+"388","Kaisen  ","海鮮","Kawaramachi","Izakaya (Tavern)","Seafood","￥2000～￥2999","￥2000～￥2999",3.04,3.04,NA,3,35.0064297939584,135.769639808287
+"389","Karibunoutage  ","カリブの宴","Okubo","Yakitori (Grilled chicken)","Kushi-age (Fried Skewer)","￥4000～￥4999",NA,3.03,3.04,NA,5,34.872628137959,135.776882179013
+"390","Teppou  ","てっぽう","Fushimi","Izakaya (Tavern)","Hot Pot (other)","￥4000～￥4999",NA,3.06,3.06,NA,9,34.9464657545857,135.759598958588
+"391","Kyouryouriyumekaisekitaniguchi  ","京料理夢懐石 谷ぐち","Marutamachi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥4000～￥4999",3.51,3.51,3.5,6,35.0169202593955,135.765107757229
+"392","Kinnotsubasaerudoru  ","金の翼 エルドール","Karasuma","Izakaya (Tavern)","Korean cuisine","￥3000～￥3999","￥1000～￥1999",3,3.01,3,23,35.0048165080561,135.762476310827
+"393","Umekoujikorabo  ","梅小路コラボ","Tambaguchi","Italian","Pasta","￥3000～￥3999","￥1000～￥1999",3.06,3,3.06,11,34.9895269742883,135.743251111435
+"394","Yoshina  ","よし菜","Sanjo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999",NA,3.51,3.51,NA,33,35.0067497862069,135.771155501009
+"395","Zakicchinsaruvatorekuomo  ","ザ キッチン サルヴァトーレ クオモ 京都","Kyoto","Italian","Cafe","￥3000～￥3999","￥1000～￥1999",3.49,3.37,3.48,196,34.9858523371143,135.757423992455
+"396","Kyounosakanakatsugi  ","京の魚 擔","Gion Shijo","Kappo (Traditional Japanese)","Seafood","￥5000～￥5999","￥3000～￥3999",3.06,3.06,NA,3,35.0046911089201,135.77066341444
+"397","Kawamuraryourihei  ","川村料理平 御幸町店","Kawaramachi","Izakaya (Tavern)","Japanese food (other)","￥3000～￥3999","￥1000～￥1999",3.07,3,3.08,24,35.0052540277354,135.766282085724
+"398","Kyoutokimurayahonten  ","京都木村屋本店","Kyoto","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999","￥1000～￥1999",3,3,3.03,48,34.9860593144037,135.760571777058
+"399","Kyouyakiyomizu  ","京家 きよみず 木屋町","Kawaramachi","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.3,3.3,NA,7,35.0045697208568,135.769967366724
+"400","Tsushima  ","対馬","Shijo Omiya","Izakaya (Tavern)","Seafood","￥1000～￥1999","￥3000～￥3999",3.5,3.47,3.12,18,35.0050820424849,135.74699008473
+"401","Sherikurabu  ","しぇりークラブ 京都･石塀小路","Gion Shijo","Bar","Spain","￥5000～￥5999",NA,3.39,3.39,NA,21,35.0009147102712,135.778785413781
+"402","kaisekifuransuryourigurumantachibana  ","懐石フランス料理 グルマン橘","Kyoto","French","Western Cuisine","￥8000～￥9999","￥4000～￥4999",3.18,3,3.39,12,34.9861619402937,135.752504664528
+"403","THE ROCKIN' HEARTS  ","ザ・ロッキンハーツ","Uji","Dining bar","Curry rice","￥1000～￥1999"," ～￥999",3.07,3.05,3.08,11,34.889690747805,135.801008073854
+"404","wainshokudouumiusagi  ","ワイン食堂UmiUsagi","Karasuma","Italian","Wine bar","￥4000～￥4999","￥1000～￥1999",3.13,3.13,NA,21,35.0027436993863,135.763917675446
+"405","Soufuku  ","素福","Sanjo","Steak","Teppanyaki","￥8000～￥9999",NA,3.03,3.03,NA,5,35.01012486175,135.770703160959
+"406","Baruagiyao  ","バル agiyao","Gojo","Bar","Seafood","￥5000～￥5999",NA,3.57,3.57,3.05,15,34.9966270833216,135.761165130109
+"407","Danieruzusore  ","ダニエルズソーレ","Karasuma","Italian","Pizza","￥3000～￥3999","￥1000～￥1999",3.21,3.05,3.37,51,35.0054531107256,135.762710706494
+"408","Shuuhou  ","秀峰","Kujo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.06,3.06,NA,6,34.9757873237877,135.758639077176
+"409","Amakudoparadhikambaikan  ","アマーク ド パラディ 寒梅館 ","Imadegawa","Cafe","Italian","￥3000～￥3999"," ～￥999",3.39,3.1,3.32,59,35.0313325028615,135.759160643125
+"410","Shikisaishiwori  ","四季彩しをり","Gion Shijo","Kyoto Cuisine","Seafood","￥5000～￥5999","￥2000～￥2999",3.2,3.2,NA,6,35.0027274293996,135.770625174694
+"411","Kyouwazentainotai  ","京和膳 鯛廼鯛","Karasuma","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3.42,3.23,3.39,3,35.0062114378682,135.757938580376
+"412","Nagamegawapontochouhana  ","眺河　先斗町～華～","Gion Shijo","Kaiseki (Traditional Japanese)","Tofu","￥5000～￥5999","￥3000～￥3999",3.56,3.55,3.35,36,35.0046055709265,135.771145045046
+"413","mekishikandaininguabokado  ","Mexican Dining AVOCADO  京都店","Sanjo","Mexico cuisine","Cafe","￥3000～￥3999","￥1000～￥1999",3.14,3.08,3.22,58,35.0087559447513,135.770252983596
+"414","nikubaruginjirou  ","肉バル銀次郎 京都駅前西店","Kyoto","Bar","Steak","￥3000～￥3999",NA,3.49,3.49,NA,17,34.9891336592539,135.757792977399
+"415","Kyoutofushimigura  ","京都伏見蔵 烏丸別邸","Karasuma","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.05,3.05,NA,5,35.0027396972202,135.762725866889
+"416","yakinikuyaruki  ","焼肉やる気 西大路五条店","Saiin","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥2000～￥2999",NA,3,3,NA,30,34.9977514521275,135.731914452052
+"417","yakinikuyaruki  ","焼肉やる気 河原町店","Sanjo","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥2000～￥2999",NA,3.04,3.04,NA,19,35.0079462997711,135.769717232034
+"418","Aburiya  ","焙屋","Nishikyogoku","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥4000～￥4999",NA,3.15,3.15,NA,13,35.0003577472119,135.710698316273
+"419","nikudokoroikkou  ","肉処 一幸","Marutamachi","Yakiniku (BBQ Beef)","Korean cuisine","￥4000～￥4999"," ～￥999",3.04,3.04,3.03,12,35.0174966548827,135.75311233802
+"420","yakinikuyaruki  ","焼肉やる気 新堀川本店","Fushimi","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥2000～￥2999",NA,3.02,3.02,NA,21,34.9444605611656,135.752149669573
+"421","LOBUTA  ","ろぶた","Mototanaka","Izakaya (Tavern)","Korean cuisine","￥2000～￥2999",NA,3.05,3.06,NA,2,35.0336198658327,135.78122509425
+"422","OICHO  ","おいちょ","Kiyomizu Gojo","Fowl","Hot Pot (other)","￥3000～￥3999",NA,3.09,3.09,3.07,30,34.9994718807524,135.766988126642
+"423","teppanyakiaoi  ","鉄板焼　葵","Kyoto","Teppanyaki","Japanese food (other)","￥10000～￥14999","￥4000～￥4999",3.09,3.07,3.15,11,34.9861624957947,135.752504942257
+"424","yakinikuyaruki  ","焼肉やる気 山科店","Nagitsuji","Yakiniku (BBQ Beef)","Korean cuisine","￥2000～￥2999",NA,3.01,3.01,NA,24,34.9716026244763,135.813007137899
+"425","Kyoutosakabaakamaru  ","京都酒場赤まる","Omiya","Izakaya (Tavern)",NA,"￥3000～￥3999",NA,3.45,3.45,NA,15,35.0022919123182,135.754258220686
+"426","Sara Sara  ","栞屋 さらさら","Shijo","Izakaya (Tavern)","Dumplings","￥2000～￥2999",NA,3.06,3.06,NA,11,35.0012701995691,135.761266296819
+"427","Southern Court  ","サザンコート","Kyoto","Dining bar","Western (Others)","￥3000～￥3999","￥2000～￥2999",3.58,3.56,3.54,82,34.9860781841528,135.759591579816
+"428","Gionshimmonsou  ","祇をん新門荘","Sanjo Keihan","Ryokan","Kaiseki (Traditional Japanese)","￥4000～￥4999","￥3000～￥3999",3.03,3.03,NA,4,35.0064507218773,135.775182958076
+"429","Tenkanoyakinikudaishougun  ","天下の焼肉 大将軍 四条大宮店","Omiya","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999"," ～￥999",3.2,3.04,3.36,27,35.0032553440389,135.749887705965
+"430","il pozzo  ","イル ポッツオ","Karasuma Oike","Italian","Pasta","￥3000～￥3999","￥1000～￥1999",3.1,3.09,3.08,47,35.0079270375066,135.755219414434
+"431","kyouryouriuryuu  ","京料理 卯柳","Sanjo","Kaiseki (Traditional Japanese)","Fugu (Blowfish)","￥8000～￥9999","￥3000～￥3999",3.23,3.15,3.16,15,35.0068600515356,135.771117999047
+"432","Rakusenrou  ","楽仙樓","Karasuma","Chinese","Izakaya (Tavern)","￥2000～￥2999"," ～￥999",3.5,3.36,3.38,66,35.0033902461784,135.761013997939
+"433","Kishouzakura  ","貴匠桜","Kiyomizu Gojo","French","Creative cuisine","￥6000～￥7999","￥3000～￥3999",3.31,3.31,3.06,18,34.9976169249738,135.77406373553
+"434","ryoushigoya  ","舞鶴港 漁師小屋","Nishi Maizuru","Izakaya (Tavern)","Seafood","￥3000～￥3999","￥1000～￥1999",3.39,3.15,3.51,9,35.4483692416298,135.327290919841
+"435","nikubarudakara  ","ニクバルダカラ 京都四条烏丸店","Karasuma","Izakaya (Tavern)","Steak","￥3000～￥3999"," ～￥999",3.04,3.04,3.03,6,35.0035378388188,135.760742324055
+"436","BARVIDA  ","バルビダ イオンモール京都桂川店","Katsuragawa","Dining bar","Teppanyaki","￥2000～￥2999"," ～￥999",3.04,3.04,3.04,10,34.9651769923077,135.706495285121
+"437","kafeandodainingubambi  ","Cafe&dining Bambi","Kyoto Shiyakusho Mae","Italian","Cafe","￥3000～￥3999"," ～￥999",3.19,3.19,3.05,21,35.0078545687395,135.765470644492
+"438","Erudoru  ","エルドール","Matsugasaki","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999","￥1000～￥1999",3.09,3.07,3.13,13,35.0513845037126,135.773858776996
+"439","Ippinhashinaga  ","逸品　はし長","Karasuma","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥2000～￥2999",3.51,3.35,3.51,15,35.0062402331775,135.761818799882
+"440","Nabetoshunsaitokyouryourikaryuu  ","鍋と旬菜と京料理 花柳","Sanjo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3.48,3.35,3.33,29,35.0073991610866,135.771149360509
+"441","kafeandodainingubambikarasuma  ","cafe & dining Bambi -KARASUMA-","Karasuma","Italian","Cafe","￥3000～￥3999","￥1000～￥1999",3.06,3.06,3.06,9,35.0060426990217,135.758653794052
+"442","Thiemuanfonvietto  ","Tiem an HUONG VIET","Karasuma Oike","Viet Nam cuisine","Asian & ethnic cuisine (and others)","￥4000～￥4999","￥1000～￥1999",3.41,3.1,3.51,50,35.0122878156377,135.76068039203
+"443","Kurepurikyoutoshanderu  ","クレープリー 京都シャンデレール","Karasuma","Crepes","Cafe","￥1000～￥1999","￥1000～￥1999",3.53,3.44,3.51,52,35.0044268890743,135.76087536173
+"444","Risutoranteazekura  ","Ristorante Azekura","Kitayama","Italian","Restaurants (other)","￥10000～￥14999","￥4000～￥4999",3.07,3.08,3.07,20,35.0593189715997,135.760176492433
+"445","Saryouhassui  ","茶寮 八翠","Arashiyama","Cafe","Sweets","￥2000～￥2999",NA,3.51,3.06,3.51,40,35.0133557108928,135.673712178407
+"446","Sala Suite Caffe Rucola   ","サラ スイート カフェ ルーコラ","Shijo","Italian","Cafe","￥3000～￥3999","￥1000～￥1999",3.38,3.39,3.27,99,35.0030299506061,135.757789004585
+"447","Apollo+  ","アポロプラス","Karasuma Oike","Izakaya (Tavern)","Seafood","￥5000～￥5999",NA,3.52,3.52,NA,39,35.0085589016931,135.763400783965
+"448","Houen  ","豊園","Shijo","Teppanyaki",NA,"￥10000～￥14999","￥5000～￥5999",3.07,3.08,3,15,35.0004611862006,135.760676368596
+"449","Furenchiman  ","仏男","Kyoto","Bistro","Seafood","￥4000～￥4999",NA,3.51,3.51,NA,13,34.9890178938299,135.760971885388
+"450","Arigatou  ","ありが十。","Keihan Yamashina","Izakaya (Tavern)","Yakiniku (BBQ Beef)","￥3000～￥3999",NA,3.02,3.02,NA,2,34.99077783055,135.815834192493
+"451","Kyousainikushima  ","京菜　にくしま","Kawaramachi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999"," ～￥999",3.03,3.03,NA,14,35.0012783806006,135.768499862362
+"452","kurabuhausuminami  ","食楽部屋みなみ 京都駅八条口本店","Kyoto","Izakaya (Tavern)","Korean cuisine","￥3000～￥3999"," ～￥999",3.05,3.05,NA,8,34.98378198882,135.756611932997
+"453","Pittsusarubatorekuomoandoguriru  ","PIZZA SALVATORE CUOMO & GRILL 京都","Sanjo","Pizza","Italian","￥3000～￥3999","￥1000～￥1999",3.07,3.08,3.07,191,35.0091050735216,135.770221303486
+"454","Fresco  ","フレスコ","Kyoto","Izakaya (Tavern)","Spain","￥3000～￥3999",NA,3.03,3.03,NA,14,34.9870936702527,135.761833557977
+"455","Rengetsudiya  ","蓮月茶や","Higashiyama","Tofu","Yuba","￥3000～￥3999","￥3000～￥3999",3.11,3.1,3.07,23,35.0070121745114,135.782270399171
+"456","gyuukushibunzou  ","牛串ぶんぞう 先斗町店","Sanjo","Izakaya (Tavern)","Sumibiyaki","￥4000～￥4999","￥1000～￥1999",3.04,3.04,NA,4,35.0080729756618,135.771021006812
+"457","PREGO TOKICHI  ","プレーゴ藤吉","Kyoto Shiyakusho Mae","Italian","Sumibiyaki","￥6000～￥7999","￥3000～￥3999",3.2,3.2,NA,12,35.011998663271,135.770814454332
+"458","sumibiyakiyasaiyaoki  ","炭火焼野菜 八百起 烏丸店","Kyoto Shiyakusho Mae","Tempura","Izakaya (Tavern)","￥3000～￥3999",NA,3.05,3.05,3.02,5,35.0079184437468,135.765067063957
+"459","Osakanazukkorobashi  ","御肴ずっころばし","Kyoto","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999",NA,3,3,NA,11,34.9829568331209,135.760550304596
+"460","Torimasa  ","鳥正 宇治大久保本店","Kutsukawa","Izakaya (Tavern)","Fowl","￥2000～￥2999",NA,3,3,NA,11,34.8657210896615,135.777328426011
+"461","Aguuru  ","あーぐうる","Karasuma Oike","Okinawan Cuisine","Izakaya (Tavern)","￥3000～￥3999"," ～￥999",3.5,3.44,3.43,62,35.0072095261423,135.759082038099
+"462","Yakinikunonki  ","焼肉のんき","Higashino","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥1000～￥1999"," ～￥999",3.07,3.02,3.07,22,34.9847315379008,135.817685180117
+"463","Adan  ","アダン 京都駅店","Kyoto","Izakaya (Tavern)","Okinawan Cuisine","￥3000～￥3999",NA,3.31,3.31,NA,53,34.9877474367485,135.758829899552
+"464","Oushokuyakappa  ","欧食屋 Kappa","Shijo","Italian","Bar","￥4000～￥4999"," ～￥999",3.06,3.05,3.06,10,35.0011968806133,135.761640435789
+"465","Minari  ","美菜莉","Kyoto","Korean cuisine","table d'hôte","￥2000～￥2999","￥1000～￥1999",3.05,3.04,3.05,18,34.9857923570028,135.758195320047
+"466","Daichinokura  ","大地の蔵","Higashi Maizuru","Izakaya (Tavern)",NA,"￥3000～￥3999",NA,3.05,3.05,NA,8,35.4755940516044,135.395377610734
+"467","sumibisute-kisakaikyoutosanjou  ","炭火ステーキ坂井 京都三条","Karasuma Oike","Steak","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥1000～￥1999",3.5,3.09,3.53,14,35.0084038300335,135.758348710679
+"468","Ryuuhourakuenchura  ","琉泡楽園 美ら 舞鶴店","Nishi Maizuru","Okinawan Cuisine","Izakaya (Tavern)","￥3000～￥3999",NA,3,3,NA,10,35.4449179554754,135.327941302508
+"469","Byuandodainingukotoshieru  ","ビュー＆ダイニング コトシエール","Kyoto","Modern French","Italian","￥8000～￥9999","￥3000～￥3999",3.42,3.42,3.06,16,34.9867153369871,135.759520723032
+"470","Karin  ","花梨","Nijojo Mae","Chinese","Dandan noodles","￥6000～￥7999","￥3000～￥3999",3.51,3.28,3.51,32,35.0124527439116,135.752767321127
+"471","Fujiya  ","藤や","Sanjo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥5000～￥5999",3.09,3.1,3.07,7,35.0092364447783,135.770016314461
+"472","Kyoutokimurayahonten  ","京都木村屋本店 祇園花見小路","Gion Shijo","Izakaya (Tavern)","Sukiyaki","￥3000～￥3999","￥1000～￥1999",3.04,3.04,NA,8,35.0029136003924,135.775193397843
+"473","Joukoya  ","上古屋","Karasuma","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.22,3.22,NA,5,35.0060265299699,135.755237689615
+"474","Nikukappoubarugyugyu  ","肉割烹バル 牛牛 GYUGYU 祇園本店","Gion Shijo","Bar","Izakaya (Tavern)","￥4000～￥4999","￥2000～￥2999",3.06,3.06,3.06,22,35.0044231981298,135.7773106525
+"475","furenchigiombarumaruhashi  ","フレンチ祇園バル 丸橋","Gion Shijo","Bar","French","￥3000～￥3999"," ～￥999",3.54,3.54,3.14,54,35.0045328213749,135.772315506744
+"476","nikubaruginjirou  ","肉バル銀次郎 烏丸御池本店","Karasuma Oike","Bar","Italian","￥3000～￥3999"," ～￥999",3.52,3.5,3.48,39,35.0111859734265,135.754969418789
+"477","Sumibikushiyakitsujiya  ","炭火串焼つじや 京都駅前店","Kyoto","Izakaya (Tavern)","Kushiyaki (Grilled skewer)","￥3000～￥3999",NA,3.05,3.05,NA,11,34.9872859798613,135.754697054021
+"478","Gyararishioriya  ","ぎゃらりぃ栞屋","Kyoto","Izakaya (Tavern)","Nihonshu (Japanese sake)","￥4000～￥4999",NA,3.27,3.27,NA,19,34.9893805920786,135.758639840143
+"479","Kyounishikiobanzaibyuffehinataya  ","京・錦 おばん菜ビュッフェ ひなたや","Kawaramachi","Buffet style","Kyoto Cuisine","￥1000～￥1999","￥1000～￥1999",3.03,3.03,3,15,35.0050709633495,135.764655562569
+"480","kamanzanijoumarufuku  ","釜座二条 丸福","Marutamachi","Izakaya (Tavern)","Tempura","￥3000～￥3999",NA,3.45,3.45,NA,9,35.0137171039149,135.755675354734
+"481","coLLabo  ","コラボ","Karasuma Oike","Cafe","Hamburger Steak","￥1000～￥1999"," ～￥999",3.27,3.11,3.18,67,35.0087508132,135.762690278581
+"482","tonkotsunabetogyouzaenraku  ","とんこつ鍋と餃子 縁楽","Shijo","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.04,3.04,NA,3,35.002209494864,135.758479262813
+"483","Ryuuan  ","りゅう庵","Gion Shijo","Yakiniku (BBQ Beef)","Japanese food (other)","￥6000～￥7999","￥1000～￥1999",3.22,3.06,3.41,15,35.0047033612946,135.772464653172
+"484","Ace cafe  ","エース カフェ","Sanjo","Cafe","Dining bar","￥3000～￥3999",NA,3.09,3.1,3,67,35.0099516579716,135.770698447105
+"485","Resutoranrejina  ","レストラン レジーナ","Kyoto","Western Food (Other)","Buffet style"," ～￥999","￥1000～￥1999",3.03,3,3.04,11,34.988086527367,135.756552573071
+"486","Akasaki  ","あかさき","Shichijo","Izakaya (Tavern)","Kyoto Cuisine","￥4000～￥4999",NA,3.05,3.04,3.04,4,34.9894065189753,135.763011901983
+"487","Ozabu  ","おざぶ","Sanjo","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.06,3.07,NA,7,35.008859559776,135.771111518635
+"488","Sutekiandodainaburuba  ","ステーキ ダイナー ブルバル","Saiin","Bar","Steak","￥2000～￥2999",NA,3.04,3.04,NA,2,35.0027856069687,135.730258524461
+"489","Yakinikuyoshimi  ","焼肉 嘉","Jingu Marutamachi","Yakiniku (BBQ Beef)","Steak","￥8000～￥9999","￥1000～￥1999",3.58,3.59,3.39,18,35.0173827235779,135.769612073443
+"490","sute-kihausupondo  ","ステーキハウス 听 本店","Marutamachi","Steak","Hamburger Steak","￥4000～￥4999","￥1000～￥1999",3.2,3.2,3.07,41,35.014871765185,135.759256393056
+"491","Gyouzamatsukichi  ","餃子 松吉","Kitano Hakubaicho","Dumplings","Izakaya (Tavern)","￥2000～￥2999",NA,3.07,3.08,NA,2,35.0251415111497,135.743988577097
+"492","Pontochounabariya  ","先斗町　隠家","Gion Shijo","Italian","Wine bar","￥4000～￥4999",NA,3.3,3.3,NA,9,35.0043728863169,135.771006226097
+"493","Kamehameha  ","かめはめは","Kawaramachi","Okonomiyaki","Teppanyaki","￥2000～￥2999","￥1000～￥1999",3.05,3.06,NA,2,35.0056573254951,135.766715086751
+"494","Bunta  ","ぶん太","Nagaoka Tenjin","Izakaya (Tavern)","Chanko Nabe (Sumo Wrestlers Hot Pot)","￥3000～￥3999",NA,3.02,3.02,NA,2,34.9260684970239,135.69628460041
+"495","Bejitejiya  ","ベジテジや 四条烏丸店","Shijo","Korean cuisine","Yakiniku (BBQ Beef)","￥3000～￥3999",NA,3.5,3.5,NA,55,35.0025641538598,135.75703131118
+"496","Juujuu  ","寿寿","Kyoto","Yakiniku (BBQ Beef)","Japanese food (other)","￥3000～￥3999",NA,3.03,3.03,NA,12,34.9836145308151,135.757990715088
+"497","Kuuan  ","空庵","Kawaramachi","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999"," ～￥999",3.04,3.04,NA,3,35.0029778822432,135.766278579702
+"498","L'ajitto  ","L’ajitto","Marutamachi","Teppanyaki","Okonomiyaki","￥8000～￥9999","￥2000～￥2999",3.23,3.23,NA,7,35.0135983692724,135.763778853873
+"499","Aburaya  ","あぶらや","Uji","Izakaya (Tavern)","Kushi-age (Fried Skewer)","￥3000～￥3999",NA,3.05,3.05,NA,5,34.8876733028321,135.799914983924
+"500","yakitorisutandosakabakadofuku  ","焼き鳥スタンド酒場 角福","Shijo","Izakaya (Tavern)","Japanese food (other)","￥2000～￥2999",NA,3.28,3.28,NA,5,35.0021764378276,135.758192065964
+"501","Kyoutosakagurakan  ","京都酒蔵館","Shijo","Izakaya (Tavern)","Bar","￥3000～￥3999","￥2000～￥2999",3.25,3.15,3.21,8,35.0013937471055,135.758383197238
+"502","Sutekihanasato  ","ステーキ花郷 祇園店","Gion Shijo","Steak","Teppanyaki","￥20000～￥29999","￥6000～￥7999",3.17,3.06,3.33,5,35.0057496936379,135.775634619509
+"503","Tawaterasu  ","タワーテラス","Kyoto","Buffet style","Kaiseki (Traditional Japanese)","￥4000～￥4999","￥2000～￥2999",3.35,3.09,3.5,29,34.9875874625536,135.759327643357
+"504","Gionshimbashinakatani  ","祇園新橋 中谷","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥3000～￥3999",3.56,3.55,3.31,8,35.0059698378736,135.774428780362
+"505","Orudohonkonresutorankyouto  ","老香港酒家京都","Shijo","Chinese","Cantonese Cuisine","￥10000～￥14999","￥1000～￥1999",3.88,4.04,3.61,148,35.0031502388152,135.759122777166
+"506","Okonomiyakitsuruhashifuugetsu  ","お好み焼き 鶴橋風月 京都ヨドバシ店","Kyoto","Izakaya (Tavern)","Okonomiyaki","￥1000～￥1999"," ～￥999",3.09,3.07,3.09,21,34.9882082257195,135.759111799369
+"507","Yakinikuyaruki  ","焼肉やる気 四条河原町店","Gion Shijo","Yakiniku (BBQ Beef)","Steak","￥2000～￥2999","￥1000～￥1999",3.07,3.08,3.06,29,35.0036731325933,135.770841270236
+"508","trattoria sette  ","トラットリア セッテ ハイアット リージェンシー 京都","Shichijo","Italian","Pizza","￥5000～￥5999","￥2000～￥2999",3.57,3.55,3.52,112,34.9885256615719,135.773285885375
+"509","Kurosuke  ","くろすけ","Kitano Hakubaicho","Tofu","Yuba","￥6000～￥7999","￥3000～￥3999",3.09,3.08,3.08,26,35.030690044604,135.737293541279
+"510","Imozou  ","芋蔵 京都木屋町店","Gion Shijo","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.05,3.06,NA,6,35.0046063909223,135.770386496894
+"511","Denen  ","DEN-EN","Sanjo","Dining bar","Bar","￥2000～￥2999",NA,3.04,3,3.05,15,35.0085117915368,135.769528055042
+"512","Kenzoesuteitowainarigionten  ","ケンゾーエステイトワイナリー 祇園店","Gion Shijo","Italian","Wine bar","￥8000～￥9999","￥3000～￥3999",3.61,3.62,3.1,18,35.0041894378747,135.774262180344
+"513","Osteria Bastille  ","オステリア・バスティーユ","Karasuma","Italian","French","￥4000～￥4999","￥1000～￥1999",3.42,3.2,3.49,86,35.0062257722612,135.760787219558
+"514","IN THE GREEN  ","イン・ザ・グリーン","Kitayama","Italian","Pizza","￥3000～￥3999","￥1000～￥1999",3.52,3.41,3.54,101,35.0508266183908,135.764285708834
+"515","Ajoiichanchi  ","agio.iichan.chi","Fushimi Momoyama","Dining bar","Cafe","￥2000～￥2999"," ～￥999",3.08,3.03,3.11,40,34.9331000107658,135.762392397532
+"516","Kitayamafuurin  ","きたやま風凛","Kitayama","Kaiseki (Traditional Japanese)","Seafood","￥6000～￥7999","￥2000～￥2999",3.05,3.05,NA,1,35.053163848331,135.76313680775
+"517","burassuri-kontowa-ru  ","ブラッスリー・コントワール","Nishioji","Izakaya (Tavern)","Bistro","￥3000～￥3999"," ～￥999",3.53,3.53,3.38,16,34.9806968970149,135.732464636026
+"518","Honmamonwagyu-sakanaya-hirari  ","ほんまもん和牛 肴家 ひらり","Kawaramachi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999",NA,3.17,3.17,3,13,35.0058629134426,135.769828429833
+"519","Manchou  ","萬長","Myoshinji","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥4000～￥4999","￥2000～￥2999",3.07,3.05,3.07,12,35.0259283001596,135.719840407183
+"520","Risutoranteoraegion  ","リストランテ オラエ祇園","Gion Shijo","Italian","Pasta","￥10000～￥14999","￥4000～￥4999",3.59,3.59,3.06,13,35.0057343764294,135.773283426592
+"521","Taishuunikubarujuu  ","大衆肉バル 7+3","Sai","Bar","Steak","￥3000～￥3999",NA,3.05,3.05,NA,3,35.0055495336839,135.733446188025
+"522","Oyajinokura  ","おやじの蔵","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.04,3.04,NA,6,35.0093603107393,135.769462188112
+"523","Occobe.  ","オッコベー","Higashiyama","Italian","Pasta","￥3000～￥3999"," ～￥999",3,3,3,7,35.0093065901891,135.778770584191
+"524","itariamba-rukimuraya  ","Italian BAR KIMURAYA 京都駅前店","Kyoto","Italian","Bar","￥2000～￥2999",NA,3.08,3.08,NA,28,34.9874344367176,135.760092031365
+"525","Cafe Restaurant Le Temps  ","ル・タン","Kyoto","Buffet style","Cafe","￥5000～￥5999","￥2000～￥2999",3.46,3.26,3.5,129,34.9860776286519,135.759591302087
+"526","sushidainingudaihachi  ","Sushi Dining 大八","Karasuma","Sushi","Creative cuisine","￥5000～￥5999",NA,3.06,3.06,NA,5,35.0043950911091,135.758289455725
+"527","Umayakinikusemmontensakuratomomiji  ","馬焼肉専門店 桜とmomiji 本店","Sanjo","Yakiniku (BBQ Beef)","Meat dishes","￥4000～￥4999",NA,3.53,3.53,NA,26,35.0074019139867,135.769741977266
+"528","kyoutofushimigurapontochouminamian  ","京都伏見蔵 先斗町 南庵","Gion Shijo","Izakaya (Tavern)","Japanese food (other)","￥4000～￥4999","￥1000～￥1999",3,3,3.05,4,35.0049177583206,135.771062815279
+"529","Gempinfugushijoukarasumanoseki  ","玄品ふぐ 四条烏丸の関","Karasuma","Izakaya (Tavern)","Fugu (Blowfish)","￥4000～￥4999","￥3000～￥3999",3.05,3.05,NA,9,35.0029327273151,135.762620299604
+"530","Shou  ","嘗〜miso〜","Marutamachi","Oden","Izakaya (Tavern)","￥4000～￥4999",NA,3.35,3.35,NA,11,35.0172662004822,135.757492262656
+"531","Nikujuuhachi  ","肉十八 六地蔵店","Rokujizo","Yakiniku (BBQ Beef)",NA,"￥2000～￥2999",NA,3,3,NA,6,34.9321277379282,135.798820079599
+"532","Gori's Kitchen  ","ゴリーズ キッチン","Jujo","Italian","Pizza","￥3000～￥3999"," ～￥999",3.05,3.05,NA,10,34.9714040036815,135.748457902315
+"533","Tenkanoyakinikudaishougun  ","天下の焼肉 大将軍 京都駅前店","Kyoto","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999"," ～￥999",3.05,3.05,3.04,19,34.9874677450198,135.758862965239
+"534","Kameya  ","かめや 西店","Saiin","Crab","Fugu (Blowfish)","￥4000～￥4999","￥2000～￥2999",3.02,3,3.03,10,35.0037832955078,135.731258950996
+"535","giombashunrou  ","祇園 馬春楼","Gion Shijo","Meat dishes","Regional Cuisine (Other)","￥8000～￥9999",NA,3.06,3.07,NA,13,35.0062088490178,135.772780507378
+"536","Chishokufu  ","知食府","Emmachi","Chinese","Sichuan Cuisine","￥2000～￥2999"," ～￥999",3.06,3.03,3.06,9,35.0172235312682,135.731640800471
+"537","eetokodori  ","ええとこどり 京都西大路駅前店","Nishioji","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3.05,3.06,NA,1,34.9801119574073,135.732340228845
+"538","Kasuian  ","花水庵","Higashiyama","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥3000～￥3999",3.06,3.06,3.04,7,35.004593686488,135.780302762538
+"539","Mimasuyamonami  ","ミマスヤ モナミ","Kawaramachi","Creative cuisine","Kyoto Cuisine","￥4000～￥4999","￥1000～￥1999",3.49,3.42,3.48,18,35.0006804052778,135.76943147919
+"540","Juunikiyakan  ","十二季家 歓 京都店","Kyoto","Izakaya (Tavern)","Kyoto Cuisine","￥2000～￥2999"," ～￥999",3.06,3.06,3,31,34.9835165292173,135.760479679558
+"541","kunseitojibi-ruwachi  ","燻製と地ビール 和知","Karasuma","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.51,3.51,NA,110,35.0046809658873,135.762412711238
+"542","Torihime  ","とりひめ 河原町店","Kawaramachi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3,3,NA,35,35.0050627109849,135.769431299658
+"543","Cafe Lavender  ","カフェ ラベンダー","Nijo","Buffet style","Izakaya (other)","￥1000～￥1999","￥1000～￥1999",3.04,3.04,3.02,2,35.0150178405933,135.742204191403
+"544","Kyoutobatake  ","きょうと畑","Kyoto","Shabu Shabu (Japanese Steamboat)","Izakaya (Tavern)","￥3000～￥3999","￥2000～￥2999",3.03,3.03,NA,11,34.9874322147137,135.760090920449
+"545","Fesshimon  ","フェッシモン・・・","Keihan Yamashina","Italian","Bar","￥3000～￥3999","￥1000～￥1999",3.05,3.05,NA,1,34.9900580758513,135.809567523856
+"546","nikuyaoushin  ","肉家 桜真","Karasuma Oike","Yakiniku (BBQ Beef)","Kyoto Cuisine","￥8000～￥9999",NA,3.58,3.58,NA,23,35.0116048692233,135.757929986961
+"547","Sumibirobataikoru  ","炭火炉端イコール","Shijo","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.04,3.04,NA,1,35.0021792152744,135.758190121553
+"548","Hisa  ","長崎ちゃんぽん・皿うどん専門店 尚 ","Emmachi","Champon Noodle","Ramen","￥1000～￥1999"," ～￥999",3.38,3.06,3.38,24,35.0184085511744,135.724134147115
+"549","Horumondaigorou  ","ほるもん大五郎","Gion Shijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.44,3.44,NA,4,35.0042417756858,135.774278690435
+"550","Hikohachi  ","彦八","Gion Shijo","Sushi","Seafood","￥5000～￥5999","￥1000～￥1999",3.04,3.04,3.04,7,35.000418626906,135.777336112542
+"551","Matsusakagyuuwattsu  ","松阪牛 What’s","Karasuma Oike","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥8000～￥9999",NA,3.26,3.09,3.38,43,35.0083900379547,135.758005559052
+"552","FORTUNE GARDEN KYOTO  ","フォーチュンガーデンキョウト","Kyoto Shiyakusho Mae","Bistro","Western Cuisine","￥4000～￥4999","￥1000～￥1999",3.59,3.58,3.56,107,35.0125174606404,135.768751823969
+"553","Enrian  ","えんり庵 大手筋店","Fushimi Momoyama","Creative cuisine","Japanese food (other)","￥4000～￥4999","￥1000～￥1999",3,3,NA,8,34.9328131277709,135.764153653357
+"554","kyuushuusakabaajito  ","九州酒場 あじと","Nishi Maizuru","Izakaya (Tavern)","Fowl","￥4000～￥4999",NA,3.03,3.04,NA,3,35.4450840478361,135.327884910655
+"555","Heso  ","へそ 京都駅前店","Kyoto","Standing style soba","Izakaya (Tavern)","￥1000～￥1999"," ～￥999",3.35,3.33,3.08,54,34.9890814844868,135.760190280706
+"556","Kyounozenkuruma  ","京の禅 車 四条烏丸店","Shijo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥4000～￥4999","￥1000～￥1999",3.52,3.35,3.54,42,35.0019159878339,135.762640597394
+"557","oushuuizakayabiruzu  ","欧州居酒屋 Bill’s","Fushimi Momoyama","Izakaya (Tavern)","Pizza","￥3000～￥3999",NA,3.03,3.03,3,5,34.9331705620257,135.762578489939
+"558","Aburishibuya  ","あぶり渋屋 山科駅前店","Keihan Yamashina","Izakaya (Tavern)","Robatayaki","￥5000～￥5999",NA,3.05,3.05,NA,4,34.9895299150812,135.81621255186
+"559","Norakuro  ","まちかどマルシェ Norakuro","Nishioji","Italian","Bistro","￥3000～￥3999","￥1000～￥1999",3.06,3.06,3.06,10,34.9868846343161,135.736232371555
+"560","Fuubitosuuro  ","ふうびとすうろ","Kawaramachi","Bar","Steak","￥3000～￥3999",NA,3.29,3.29,NA,13,35.0024990219314,135.764982320515
+"561","Kaisendokorowatanabeya  ","海鮮処 わたなべや","Karasuma Oike","Seafood","Izakaya (Tavern)","￥4000～￥4999",NA,3.06,3.06,NA,13,35.0121923659181,135.761338287963
+"562","Gioniwamoto  ","祇園　岩元","Gion Shijo","Kyoto Cuisine","Kappo (Traditional Japanese)","￥10000～￥14999","￥4000～￥4999",3.63,3.54,3.68,18,35.0026291866409,135.7752089652
+"563","Gyuutankeisuke  ","牛タン圭助 京都駅前店","Kyoto","Izakaya (Tavern)","Gyutan (Beef tongue)","￥3000～￥3999",NA,3.05,3.05,NA,13,34.9874088836333,135.760077033787
+"564","Oribuoirusemmontenaorio  ","オリーブオイル料理専門店 A・Olio","Sanjo","Bistro","Steak","￥3000～￥3999","￥2000～￥2999",3.06,3.06,NA,3,35.0075935848322,135.771154906653
+"565","Seichuuan  ","聖宙庵","Mototanaka","French","Western Food (Other)","￥5000～￥5999","￥3000～￥3999",3.04,3,3.05,16,35.0234566833485,135.791238063938
+"566","Kyoukurozakura  ","京・黒桜","Gion Shijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.06,3.06,NA,4,35.0049974654336,135.770685898467
+"567","Nettaishokudou  ","熱帯食堂 四条河原町店","Gion Shijo","Thailand cooking",NA,"￥2000～￥2999"," ～￥999",3.15,3.06,3.28,21,35.0036200378739,135.770765280341
+"568","Toriseetakoyakushiten  ","鳥せゑ 蛸薬師店","Karasuma","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999"," ～￥999",3.04,3,3.06,13,35.0060560797894,135.761451338878
+"569","Fujiishi  ","藤石 本店","Gion Shijo","Kappo (Traditional Japanese)","Japanese food (other)","￥4000～￥4999",NA,3.5,3.5,NA,9,35.0042929037766,135.775563859125
+"570","yakinikuyaruki  ","焼肉やる気 高野店","Ichijoji","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥2000～￥2999",NA,3.03,3.04,NA,9,35.0424933999691,135.783447001167
+"571","Unkai  ","雲海","Nijojo Mae","Kaiseki (Traditional Japanese)","Sushi","￥8000～￥9999","￥3000～￥3999",3.18,3.04,3.35,28,35.0126132859341,135.752975629768
+"572","Izakayamaruya  ","居酒屋 まるや","Kawaramachi","Izakaya (Tavern)","Japanese food (other)","￥2000～￥2999",NA,3.03,3.04,NA,12,35.0062175886411,135.769308178932
+"573","kyoutoarashiyamagoseiyuunoyadoranzan  ","京都・嵐山 ご清遊の宿 らんざん","Arashiyama","Other",NA,"￥6000～￥7999","￥3000～￥3999",3.21,3.21,3.06,17,35.0139667695544,135.674451255559
+"574","Shimogamosaryou  ","下鴨茶寮 本店","Demachiyanagi","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥15000～￥19999","￥8000～￥9999",3.61,3.16,3.65,72,35.0341194079277,135.773971784747
+"575","Kifunekiraku  ","貴船喜らく","Kurama","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥3000～￥3999",3.52,3.51,3.08,23,35.121465435077,135.763333646673
+"576","Nikuyasuzu  ","肉や すず","Shichijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999","￥1000～￥1999",3.06,3.05,3.05,5,34.9891627269843,135.768209610961
+"577","KITAYAMA MONOLITH  ","北山モノリス","Shugakuin","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥6000～￥7999","￥3000～￥3999",3.06,3.06,3.05,22,35.0532023785241,135.790545640787
+"578","Watanabe  ","ローストビーフの店 ワタナベ ","Nijojo Mae","Beef dishes","French","￥5000～￥5999","￥5000～￥5999",3.54,3.54,3.04,15,35.0106682253045,135.753496787151
+"579","clover  ","イタリア食堂ワインバル クローバー","Sanjo","Dining bar","Italian","￥3000～￥3999",NA,3.06,3.06,NA,4,35.0075169001933,135.769656423521
+"580","hamba-guandosute-kipondo  ","ハンバーグ＆ステーキ 听 梅小路店","Tambaguchi","Hamburger Steak","Steak","￥1000～￥1999","￥1000～￥1999",3.06,3.06,3.05,28,34.9893381057758,135.7432611193
+"581","Gempinfugukyoutoekimaenoseki  ","玄品ふぐ 京都駅前の関","Kyoto","Fugu (Blowfish)","Hot Pot (other)","￥4000～￥4999","￥3000～￥3999",3.07,3.03,3.07,6,34.9882018600231,135.760400581518
+"582","guramuromanthikkumairu-mu  ","g ロマンティックマイルーム","Kyoto Shiyakusho Mae","Dining bar","Italian","￥2000～￥2999",NA,3.03,3.03,NA,6,35.0074640381739,135.764509908928
+"583","Giombengara  ","祗園べんがら","Gion Shijo","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999","￥4000～￥4999",3.05,3.05,NA,2,35.0047375449195,135.773644831362
+"584","gochisouizakayaippaiippai  ","御馳走居酒屋 いっぱいいっぱい 深草店","Fujinomori","Izakaya (Tavern)","Seafood","￥2000～￥2999",NA,3,3,NA,4,34.9591012183019,135.768103226105
+"585","uotanafumibun  ","魚棚ふみ文","Sanjo","Kappo (Traditional Japanese)","Kyoto Cuisine","￥5000～￥5999",NA,3.35,3.35,NA,9,35.0083107259379,135.770902394605
+"586","Kyouhorumonkura  ","京ホルモン 蔵 四条寺町店","Kawaramachi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999"," ～￥999",3.04,3.04,3.03,16,35.0035175580113,135.766923779049
+"587","itariambarutoreotto  ","イタリアンバルTreotto","Omiya","Italian","Pizza","￥3000～￥3999",NA,3.09,3.09,NA,25,35.0043310382601,135.748510548589
+"588","Buraitonkicchin  ","ブライトンキッチン","Keihan Yamashina","Buffet style","Western Cuisine","￥2000～￥2999","￥2000～￥2999",3.16,3.14,3.07,23,34.9914324974048,135.816673259334
+"589","Aritsune  ","有恒","Kyoto Shiyakusho Mae","Kappo (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999",NA,3.69,3.69,NA,26,35.0136786894351,135.766697218916
+"590","Akayashirosakae  ","あかやしろ榮","Kawaramachi","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥4000～￥4999",NA,3.21,3.21,NA,14,35.0027941861968,135.764822728478
+"591","Kihara  ","きはら","Marutamachi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999"," ～￥999",3.15,3.15,3.05,15,35.0145004059064,135.758677569336
+"592","Kamon  ","花門-kamon-","Kawaramachi","Italian","Bar","￥3000～￥3999","￥1000～￥1999",3.31,3.31,3.06,20,35.000848950131,135.766670311855
+"593","Mew’z cafe  ","ミューズ カフェ","Kyoto Shiyakusho Mae","Dining bar","Thailand cooking","￥2000～￥2999"," ～￥999",3.06,3.02,3.06,19,35.0140803189745,135.767031061588
+"594","kyougokushinobinosato  ","京極忍びの里","Kawaramachi","Creative cuisine","Sushi","￥3000～￥3999",NA,3,3,3.04,43,35.0046718932308,135.767739213735
+"595","Takaraya  ","宝や 八条口店","Kujo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3.07,3.07,NA,4,34.9818253292414,135.760938885954
+"596","datten  ","ダッテン","Gion Shijo","Italian","Bar","￥4000～￥4999",NA,3.03,3.03,NA,7,35.0029146749286,135.773106071146
+"597","Tatsumi  ","多津美","Saiin","Kappo (Traditional Japanese)","Sushi","￥5000～￥5999",NA,3.05,3.05,NA,3,35.0029129537785,135.731653525997
+"598","chuugokuryourikoukaryuuhou  ","中国料理 皇家龍鳳","Kyoto","Chinese","Dim sum","￥6000～￥7999","￥3000～￥3999",3.31,3.26,3.17,16,34.986018067405,135.752539668245
+"599","Kaburaya  ","蕪屋","Gion Shijo","Kyoto Cuisine","Creative cuisine","￥4000～￥4999",NA,3.51,3.51,NA,23,35.0033787289252,135.774285226606
+"600","Kaiseitei  ","開晴亭 北山店","Kitayama","French","Italian","￥4000～￥4999","￥2000～￥2999",3.39,3.08,3.37,36,35.0511669200994,135.767739572989
+"601","Kushikatsutakoyakiseichan  ","串かつ たこ焼き せいちゃん 京都駅前店","Kyoto","Izakaya (Tavern)","Takoyaki","￥2000～￥2999",NA,3.05,3.04,3.02,3,34.9882171369867,135.76044752136
+"602","Gyuuzen  ","牛禅 四条烏丸店","Shijo","Shabu Shabu (Japanese Steamboat)","Sukiyaki","￥4000～￥4999",NA,3.05,3.05,NA,10,35.0026266942601,135.759854407176
+"603","Kyouzakanafukuya  ","京肴 ふくや","Nijojo Mae","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.04,3.04,NA,1,35.0087214433883,135.750880427406
+"604","Toto  ","魚源","Nishi Maizuru","Seafood","Sushi","￥4000～￥4999","￥1000～￥1999",3.22,3.12,3.21,13,35.443161202914,135.328169142247
+"605","Ganko  ","がんこ 高瀬川二条苑","Kyoto Shiyakusho Mae","Kaiseki (Traditional Japanese)","Shabu Shabu (Japanese Steamboat)","￥5000～￥5999","￥3000～￥3999",3.52,3.51,3.32,79,35.0127699701935,135.77084497184
+"606","PASTA MORE  ","パスタモーレ 京都駅店","Kyoto","Italian","French","￥2000～￥2999","￥1000～￥1999",3,3.06,3,77,34.9846169425753,135.759077245365
+"607","Kyoumachibaru  ","京町バル","Momoyamagoryomae","Dining bar","Izakaya (Tavern)","￥4000～￥4999",NA,3.04,3.04,NA,3,34.9332422663806,135.765175215425
+"608","wagyuuyakinikutoku  ","和牛焼肉 徳","Sanjo","Yakiniku (BBQ Beef)","Korean cuisine","￥6000～￥7999","￥1000～￥1999",3.53,3.53,3.2,29,35.0063420782855,135.772658172762
+"609","Dembei  ","伝兵衛","Kurama","Soba","Kamameshi (Clay pot rice)","￥1000～￥1999",NA,3.24,3.1,3.16,21,35.1208407650961,135.762499300282
+"610","Tsukinokurabito  ","月の蔵人","Fushimi Momoyama","Kappo (Traditional Japanese)","Dining bar","￥3000～￥3999","￥1000～￥1999",3.5,3.35,3.46,110,34.9305938797046,135.761806728228
+"611","Kinnotori  ","金の鶏 京都駅本店","Kujo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3,3,NA,4,34.9816634074628,135.761244979099
+"612","Zekuu  ","是空","Imadegawa","Ramen","Boneless deep-fried chicken"," ～￥999"," ～￥999",3.34,3.14,3.3,39,35.0295781322478,135.75264459839
+"613","Rojimon  ","露地もん","Karasuma Oike","Izakaya (Tavern)","Kyoto Cuisine","￥5000～￥5999",NA,3.57,3.57,3,39,35.0103674756545,135.756446000514
+"614","Aiemuo  ","ＩＭＯ","Shichijo","Pizza","Dining bar","￥2000～￥2999",NA,3.06,3.06,NA,2,34.9891015314119,135.762999490922
+"615","Al Vere  ","アルヴェーレ","Momoyamagoryomae","Italian","Pasta","￥3000～￥3999"," ～￥999",3,3,3.01,6,34.9332295379167,135.764975879634
+"616","Nijoukiduki  ","二條 葵月","Kyoto Shiyakusho Mae","Sushi","Creative cuisine","￥6000～￥7999","￥1000～￥1999",3.57,3.54,3.55,27,35.0135911599358,135.764472407717
+"617","Hirarinteitemboukaku  ","平林亭  展望閣","Kyoto","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3,3,NA,1,34.9894197784287,135.760006669268
+"618","Kyoutogiommiyagawachououmie  ","京都祇園 宮川町 近江栄","Kiyomizu Gojo","Wine bar","Bar","￥4000～￥4999",NA,3.26,3.26,3.05,14,34.9993616809574,135.770777816982
+"619","kibunebeniya  ","貴船べにや","Kurama","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥6000～￥7999","￥6000～￥7999",3.54,3.34,3.51,30,35.1167956173022,135.761073216075
+"620","Koikoi  ","コイコイ","Gion Shijo","Yakitori (Grilled chicken)","Kushi-age (Fried Skewer)","￥2000～￥2999",NA,3,3,NA,14,35.0059291159742,135.770727342295
+"621","Suiba  ","すいば 蛸薬師室町店","Karasuma","Stand Bar","Dining bar","￥1000～￥1999",NA,3.53,3.53,3.12,29,35.0062037641349,135.757006701205
+"622","Bussarakan  ","佛沙羅館","Kiyomizu Gojo","Thailand cooking","Creative cuisine","￥4000～￥4999","￥1000～￥1999",3.14,3.07,3.24,56,34.9997574426168,135.769097938274
+"623","Saikouchou  ","彩香鳥","Ogura","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥3000～￥3999",NA,3.05,3.06,NA,1,34.896595325331,135.779503768287
+"624","Noukoutoripaitanramemmisora  ","濃厚鶏白湯ラーメン 美空","Kawaramachi","Ramen","Tsukemen"," ～￥999"," ～￥999",3.09,3.06,3.09,20,35.0012841378747,135.768565480319
+"625","Yakinikutoraji  ","焼肉トラジ 京都店","Kyoto","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999","￥1000～￥1999",3.13,3.05,3.25,39,34.9882521084398,135.759027359917
+"626","Ganko  ","がんこ 京都駅ビル店","Kyoto","Kaiseki (Traditional Japanese)","Japanese food (other)","￥3000～￥3999","￥1000～￥1999",3.18,3.1,3.18,50,34.9859973602796,135.759638246329
+"627","Sajjoupakuchi  ","三条パクチー","Kyoto Shiyakusho Mae","Thailand cooking","Izakaya (Tavern)","￥2000～￥2999"," ～￥999",3.52,3.5,3.49,99,35.0090097415401,135.76653439185
+"628","Gionhatanaka  ","祇園畑中","Gion Shijo","Ryokan","Kyoto Cuisine","￥10000～￥14999","￥5000～￥5999",3.65,3.65,3.54,22,35.0023273381457,135.778853676405
+"629","YURURI  ","ユルリ","Jingu Marutamachi","Izakaya (Tavern)",NA,"￥4000～￥4999","￥2000～￥2999",3.17,3.17,3.06,10,35.0157998876016,135.768767504871
+"630","Yakinikushoukakuoukiyamachitei  ","焼肉匠覚王木屋町亭","Sanjo","Yakiniku (BBQ Beef)","Gyutan (Beef tongue)","￥3000～￥3999",NA,3.06,3.06,NA,15,35.0070330674757,135.769909480337
+"631","Houshouan  ","烹祥庵","Gion Shijo","Kyoto Cuisine","Tofu","￥4000～￥4999",NA,3.03,3.03,NA,6,35.0050605229677,135.771185298533
+"632","Kankokuanjupontochourinanha  ","韓国酒肴　先斗町　李南河","Gion Shijo","Korean cuisine","Asian & ethnic cuisine (and others)","￥4000～￥4999",NA,3.56,3.56,NA,52,35.005508525544,135.770895579745
+"633","oumigyuujukuseisute-kiichigo-kyu-roku  ","近江牛熟成ステーキ1596","Sanjo","Steak","Yakiniku (BBQ Beef)","￥3000～￥3999",NA,3.06,3.06,3.04,4,35.0063734635797,135.772644561336
+"634","Yukinoshita  ","雪ノ下 京都本店","Nijojo Mae","Pancake","Shaved ice (snow cone)","￥1000～￥1999","￥1000～￥1999",3.58,3.13,3.58,131,35.0084717971417,135.753701315737
+"635","Yakinikuhorumonfukukawa  ","焼肉・ホルモン福川","Omiya","Yakiniku (BBQ Beef)",NA,"￥3000～￥3999",NA,3.04,3.04,NA,1,35.0039224866354,135.749414381225
+"636","Purachinabifu  ","プラチナビーフ","Gion Shijo","Teppanyaki","Steak","￥5000～￥5999",NA,3.53,3.52,3.27,20,35.0033429568534,135.772785522492
+"637","Gionroiro  ","祇園 呂色","Gion Shijo","French",NA,"￥20000～￥29999","￥10000～￥14999",3.83,3.8,3.58,31,35.0039998663877,135.774809490824
+"638","Gyuurakutei  ","牛楽亭","Shijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.16,3.16,NA,32,35.0038542911101,135.756886263826
+"639","Ristorante t.v.b  ","リストランテ ティ ヴォリオ ベーネ","Gion Shijo","Italian","Wine bar","￥15000～￥19999","￥5000～￥5999",3.67,3.64,3.62,121,35.0024586542841,135.775492838365
+"640","YEBISU  ","担担麺 胡","Keihan Yamashina","Dandan noodles","Ramen"," ～￥999",NA,3.07,3.06,3.07,17,34.9898807038199,135.815807569343
+"641","Takayasuzekuu  ","高安 是空","Karasuma","Ramen",NA," ～￥999"," ～￥999",3.09,3.06,3.09,26,35.0062515568525,135.758154659223
+"642","Koshitsuyakinikugokkoya  ","個室焼肉 ごっこや","Kyoto Shiyakusho Mae","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥3000～￥3999",NA,3.02,3.02,NA,7,35.0147310969732,135.767848185985
+"643","Ebisu  ","恵比朱","Kyoto","Ramen","Chinese"," ～￥999"," ～￥999",3.51,3.48,3.17,125,34.9879265422866,135.760671004052
+"644","izakayakyounoshunsaiirodori  ","居酒屋 京の旬菜いろどり","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.05,3.05,NA,23,34.9875927316899,135.758865181522
+"645","matono  ","まとの","Gion Shijo","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥4000～￥4999",3.72,3.63,3.72,69,35.0015654801733,135.779138965567
+"646","Shiunsen  ","紫雲仙","Kyoto Shiyakusho Mae","Soba","Kappo (Traditional Japanese)","￥3000～￥3999","￥1000～￥1999",3.53,3.28,3.52,40,35.0101610034653,135.766315468137
+"647","BEER PUB Takumiya  ","タクミヤ","Karasuma Oike","Dining bar","Italian","￥3000～￥3999",NA,3.54,3.54,3.05,20,35.0121406935032,135.760692788396
+"648","Kidoriya  ","季鶏屋","Kyoto","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999"," ～￥999",3,3.06,3,12,34.988058244401,135.759262904836
+"649","Kumamotosougouinshokutemmao  ","隈本総合飲食店 MAO","Karasuma","Bar","Cafe","￥3000～￥3999"," ～￥999",3.25,3.06,3.46,35,35.0053475358147,135.76095613485
+"650","shijoupakuchi-  ","四条パクチー","Shijo","Thailand cooking","Izakaya (Tavern)","￥2000～￥2999"," ～￥999",3.34,3.21,3.3,52,35.0038231679774,135.756007449356
+"651","SOUDEN  ","手鞠鮨と日本茶 宗田","Karasuma Oike","Sushi",NA,"￥5000～￥5999","￥2000～￥2999",3.08,3.03,3.14,6,35.0088970819979,135.756710768444
+"652","Kyoutotsuyushabuchiriri  ","京都つゆしゃぶCHIRIRI 本店","Marutamachi","Shabu Shabu (Japanese Steamboat)","Sukiyaki","￥6000～￥7999","￥2000～￥2999",3.51,3.36,3.51,25,35.0180798378606,135.757863280496
+"653","waintoonikudaisen  ","わいんとお肉 だいせん","Gojo","Italian","Yakiniku (BBQ Beef)","￥4000～￥4999",NA,3.04,3.04,NA,2,34.9909665639959,135.760382677935
+"654","Gokyou  ","牛京 西陣本店","Kuramaguchi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.09,3.04,3.16,9,35.0381862378458,135.751490980704
+"655","Daburin  ","ダブリン","Kyoto Shiyakusho Mae","Pub","Beer","￥2000～￥2999",NA,3.06,3.06,3,23,35.0113039996657,135.769916505334
+"656","Enyahanare  ","円屋 ハナレ","Karasuma","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999"," ～￥999",3.05,3.05,NA,3,35.0044547903775,135.757340920641
+"657","koubegyuuyakinikutaishitei  ","神戸牛 焼肉 大志亭 木屋町店","Kawaramachi","Yakiniku (BBQ Beef)","Chiritori nabe (tripe)","￥4000～￥4999",NA,3.06,3.06,NA,9,35.0047213758628,135.77022844917
+"658","nihonryourisakuragawa  ","日本料理 櫻川","Kyoto Shiyakusho Mae","Kaiseki (Traditional Japanese)","Kappo (Traditional Japanese)","￥20000～￥29999","￥8000～￥9999",3.89,3.71,3.97,61,35.0121764197554,135.770683901434
+"659","Sushikawano  ","鮨 かわの","Kitaoji","Sushi","Seafood","￥20000～￥29999","￥8000～￥9999",3.59,3.58,3.59,16,35.0442106378469,135.766850980753
+"660","Mameyagenzou  ","豆屋源蔵","Kyoto Shiyakusho Mae","Kyoto Cuisine","Tofu","￥6000～￥7999","￥3000～￥3999",3.38,3.37,3.08,21,35.0122103048116,135.770671956423
+"661","chuukasobatakayasu  ","中華そば 高安","Ichijoji","Ramen","Boneless deep-fried chicken"," ～￥999"," ～￥999",3.59,3.58,3.59,713,35.0450520454606,135.785180350519
+"662","Kyouhorumontaisha  ","京・ホルモン大社","Kawaramachi","Horumon (BBQ Offel)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.04,3.04,NA,6,35.005134390468,135.770413137038
+"663","cafe Cento Cento  ","カフェ チェントチェント 京都駅店","Kyoto","Cafe","Pasta","￥2000～￥2999","￥1000～￥1999",3,3.08,3,84,34.9859890277939,135.75963574692
+"664","yakinikubunya  ","焼肉 文屋","Tambaguchi","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3.52,3.52,NA,41,34.9889281157548,135.741321854788
+"665","Teuchisobaminagawa  ","手打ち蕎麦みながわ 京・御池","Karasuma Oike","Soba","Izakaya (Tavern)","￥1000～￥1999","￥1000～￥1999",3.17,3.03,3.17,9,35.0110987840461,135.756315699884
+"666","Kerara  ","ケララ","Kyoto Shiyakusho Mae","India cuisine","Indian curry","￥2000～￥2999","￥1000～￥1999",3.22,3.08,3.38,56,35.0098627450874,135.768780277167
+"667","Maribu  ","marib","Shijo","Dining bar","Bar"," ～￥999"," ～￥999",3.07,3.03,3.07,32,35.0026700483595,135.761181517186
+"668","takoyakimihashiya  ","たこ焼き みはし屋","Mototanaka","Takoyaki",NA," ～￥999"," ～￥999",3.3,3.16,3.23,9,35.0353744013964,135.781282786454
+"669","Taverunamezzanotte  ","Taverna　Mezzanotte","Kawaramachi","Italian","Bar","￥4000～￥4999",NA,3.5,3.5,NA,4,35.0013402949916,135.769628241186
+"670","Shunsaitempuraarima  ","旬菜 天ぷら 有馬","Shijo","Fried Foods (other)","Kappo (Traditional Japanese)","￥4000～￥4999","￥1000～￥1999",3.25,3.08,3.41,22,35.0002149211369,135.75805652094
+"671","Kitanoguriru  ","北野グリル イオンモールKYOTO店","Kyoto","Hamburger Steak","Croquette","￥1000～￥1999","￥1000～￥1999",3.09,3.04,3.09,17,34.983286733945,135.754890432103
+"672","Torishinoguraten  ","とり心 小倉店","Ogura","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999","￥3000～￥3999",3.03,3.04,NA,1,34.897215844954,135.781246372772
+"673","hakataaburimotsunabewarajiya  ","博多炙りもつ鍋わらじや 京都駅前店","Kyoto","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.06,3.06,NA,3,34.9879474466093,135.760619186187
+"674","Ryuumon  ","龍門 本店","Sanjo Keihan","Sichuan Cuisine","Chinese","￥1000～￥1999",NA,3.27,3.27,3.07,62,35.0095870811508,135.776790180193
+"675","Kaiuntei  ","海雲亭 洛西店","Katsura","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999"," ～￥999",3.19,3.09,3.31,11,34.9772466378647,135.689055880132
+"676","Kemuri  ","燻","Shijo","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.5,3.5,NA,36,35.002440267338,135.756818058457
+"677","Ajirokkon  ","味ろっこん 烏丸店","Karasuma","Kappo (Traditional Japanese)","Izakaya (Tavern)","￥4000～￥4999",NA,3.45,3.39,3.15,37,35.0045161992946,135.758863569136
+"678","Rinya  ","凜屋 百万遍店","Demachiyanagi","Pasta","Cafe","￥1000～￥1999"," ～￥999",3,3,NA,4,35.0291694800303,135.779594323478
+"679","Wasabi  ","わさび","Gion Shijo","Sushi","Izakaya (Tavern)","￥5000～￥5999",NA,3.18,3.18,NA,40,35.0045367367521,135.773855934187
+"680","Kappousaraku  ","割烹 佐樂","Marutamachi","Kappo (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999",NA,3.41,3.41,NA,10,35.0149717205475,135.763935923246
+"681","kaisembarukamebarueito  ","海鮮バル Kame Bar 8","Nijo","Bar","Wine bar","￥3000～￥3999",NA,3.29,3.29,NA,8,35.0109069093714,135.743232350844
+"682","Roko  ","露瑚","Kyoto Shiyakusho Mae","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥1000～￥1999",3.26,3.18,3.18,21,35.0121633023603,135.771073951954
+"683","kafeandopanke-kiguramu  ","カフェ&パンケーキ gram 京都錦店","Karasuma","Cafe","Pancake","￥1000～￥1999","￥1000～￥1999",3.03,3.02,3.03,13,35.0051575778876,135.762201595716
+"684","Kyouryouritakeshimaichigo  ","京料理 竹島 ICHIGO","Kyoto Shiyakusho Mae","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥6000～￥7999","￥2000～￥2999",3.07,3.05,3.08,10,35.0118147926034,135.770731691893
+"685","Kiyomizujunsei  ","清水 順正 おかべ家","Kiyomizu Gojo","Tofu","Yuba","￥2000～￥2999","￥2000～￥2999",3.31,3.17,3.31,82,34.9956936434902,135.781157679374
+"686","Kokekokko  ","こけこっこ","Kyoto","Izakaya (Tavern)","Steak","￥4000～￥4999","￥1000～￥1999",3.05,3,3.08,70,34.9858528926153,135.757424270184
+"687","Gionuemori  ","祇園うえもり","Gion Shijo","Kyoto Cuisine","Kappo (Traditional Japanese)","￥6000～￥7999","￥3000～￥3999",3.49,3.49,NA,14,35.0028360566996,135.775474786297
+"688","Daniel's  ","ダニエルズ","Karasuma","Italian","Pasta","￥3000～￥3999","￥1000～￥1999",3.26,3.07,3.5,108,35.0049276065708,135.762435475769
+"689","Kyounojidoriyaaki  ","京のじどり屋 晃","Kawaramachi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999"," ～￥999",3.06,3.05,3.05,8,35.0053183648418,135.76652818631
+"690","Rozurumu  ","ローズルーム","Nijojo Mae","French","Western Cuisine","￥8000～￥9999","￥2000～￥2999",3.17,3.12,3.1,23,35.0126699444786,135.752857581408
+"691","ottimo  ","オッティモ","Marutamachi","Italian","Pasta","￥4000～￥4999","￥1000～￥1999",3.48,3.08,3.53,22,35.0134174671782,135.758734558909
+"692","Kunseimaketto  ","燻製マーケット","Higashino","Cafe","Western Food (Other)","￥2000～￥2999"," ～￥999",3.33,3.06,3.33,12,34.9787377721628,135.818278154979
+"693","Miyakohanten  ","都飯店","Kuzuha","Chinese","Ramen","￥1000～￥1999"," ～￥999",3.2,3.11,3.28,62,34.85302186762,135.696394898894
+"694","Shichirinya  ","しちりん屋 北山店","Kitaoji","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3,3,NA,8,35.0501739829009,135.752532548314
+"695","Kushiagetoshiko  ","串揚げ toshico","Kitayama","Kushi-age (Fried Skewer)","Creative cuisine","￥6000～￥7999",NA,3.44,3.44,NA,9,35.0443679763449,135.770673531249
+"696","Ishiyakinamapasutakuranosuke  ","石焼生パスタ 蔵之助","Katsura","Pasta","Italian","￥1000～￥1999","￥1000～￥1999",3.08,3.06,3.09,35,34.9742813567525,135.69405478801
+"697","Buruvaru  ","ブールヴァール","Kyoto","Buffet style","Teppanyaki","￥4000～￥4999","￥2000～￥2999",3.08,3.09,3.06,39,34.9873821194823,135.757851331821
+"698","ORENO PAN okumura  ","オレノ パン オクムラ 祇園店","Gion Shijo","Bread","Cafe","￥1000～￥1999"," ～￥999",3.56,3.32,3.56,68,35.004104819643,135.772776043758
+"699","Osuteriakochinerra  ","オステリア・コチネッラ","Shijo","Italian","Wine bar","￥6000～￥7999","￥1000～￥1999",3.53,3.52,3.16,19,35.0011874626133,135.763096704169
+"700","Sumibiyakinikugyuugyuutei  ","牛々亭","Sai","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999","￥1000～￥1999",3.03,3.03,3,21,34.996404672419,135.733098582388
+"701","Bapontochoukisshou  ","BAR 先斗町 吉祥","Sanjo","Bar","Pub","￥2000～￥2999",NA,3.04,3.04,NA,8,35.0073902736092,135.771175747616
+"702","karubidontosundoufusemmontenkandon  ","カルビ丼とスン豆腐専門店 韓丼 新堀川本店","Fushimi","Korean cuisine","Ramen"," ～￥999"," ～￥999",3.33,3.29,3.2,78,34.9460223376917,135.752099879579
+"703","Momoya  ","桃屋","Karasuma","Izakaya (Tavern)","Kushi-age (Fried Skewer)","￥3000～￥3999",NA,3.09,3.09,3.02,25,35.0049276318732,135.762436568306
+"704","motsunabekamehachi  ","もつ鍋 亀八 本店","Sanjo","Motsu Nabe (Offel Hot Pot)","Izakaya (Tavern)","￥4000～￥4999",NA,3.51,3.51,NA,55,35.007292778167,135.770839668905
+"705","nikubarushouzudainingu  ","肉バル SHOW'S dining","Karasuma","Bar","Yakiniku (BBQ Beef)","￥3000～￥3999"," ～￥999",3,3,NA,4,35.005163406658,135.761976058623
+"706","yakinikushokudoukandon  ","焼肉食堂 韓丼 京都八幡店","Matsuiyamate","Yakiniku (BBQ Beef)","Korean cuisine","￥1000～￥1999"," ～￥999",3.07,3.06,3.07,10,34.8563873059014,135.710289145583
+"707","Kyoutohanagushi  ","京都 はな串","Kyoto","Kushi-age (Fried Skewer)","Yakitori (Grilled chicken)","￥2000～￥2999",NA,3.07,3.07,NA,7,34.9869346378788,135.753112880184
+"708","Harise  ","はり清","Kiyomizu Gojo","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥5000～￥5999",3.6,3.59,3.58,31,34.9947085696117,135.770896076954
+"709","Hayashi  ","はやし 四条店","Shijo","Horumon (BBQ Offel)","Yakiniku (BBQ Beef)","￥4000～￥4999",NA,3.51,3.51,NA,38,35.0024230082148,135.75784462645
+"710","Iori  ","草庵","Kyoto Shiyakusho Mae","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.26,3.26,NA,13,35.0132223345902,135.765851754587
+"711","Kankokusakuratei  ","韓国さくら亭","Nishioji","Yakiniku (BBQ Beef)","Creative cuisine","￥3000～￥3999",NA,3.27,3.27,3.24,14,34.9847155240316,135.726177750904
+"712","Norumandhi  ","ノルマンディー 河原町店 ","Kyoto Shiyakusho Mae","French","Mediterranean","￥6000～￥7999","￥2000～￥2999",3.55,3.54,3.29,38,35.0104171424006,135.769476860457
+"713","Rokurokuato  ","６６art","Saiin","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.46,3.46,NA,21,35.0025270378026,135.731076523987
+"714","Sagano  ","嵯峨野","Arashiyama","Tofu","Yuba","￥3000～￥3999",NA,3.58,3.5,3.57,129,35.0145008935708,135.674644946234
+"715","Kaosusupaisudaina  ","カオス スパイス ダイナー","Kyoto Shiyakusho Mae","Curry (other)","Dining bar","￥1000～￥1999","￥1000～￥1999",3.35,3.06,3.35,36,35.007849877303,135.767204389609
+"716","Erushimmachi  ","エール新町","Shijo","French","Italian","￥5000～￥5999","￥2000～￥2999",3.44,3.4,3.09,15,35.0015781443615,135.756810819334
+"717","Ginzaraion  ","銀座ライオン 京都アバンティ店","Kyoto","Beer","beer restaurant","￥3000～￥3999"," ～￥999",3.08,3.07,3.09,30,34.9835920741988,135.76033691016
+"718","kyouyakinikukikyou  ","京焼肉 ききょう","Karasuma Oike","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥5000～￥5999"," ～￥999",3.24,3.2,3.11,33,35.0088335157469,135.758889757072
+"719","Robatasushihotaru  ","炉端・鮨　蛍","Karasuma Oike","Robatayaki","Seafood","￥4000～￥4999"," ～￥999",3.38,3.29,3.22,40,35.0086715534028,135.758973836508
+"720","nikubaruginjirou  ","肉バル銀次郎 京都駅前東店","Kyoto","Bar","Italian","￥3000～￥3999"," ～￥999",3.44,3.31,3.29,32,34.9891442695895,135.760994099947
+"721","Tanuki  ","たぬき 六角店","Sanjo","Izakaya (Tavern)","Creative cuisine","￥2000～￥2999",NA,3,3,NA,10,35.0075874508759,135.769809463118
+"722","Arashiyamamitate  ","嵐山MITATE","Arashiyama","French","Kyoto Cuisine","￥10000～￥14999","￥5000～￥5999",3.66,3.61,3.6,30,35.0151700502421,135.678805560756
+"723","Gansochikaranikumiyoshi  ","元祖力肉 みよ志","Nijo","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥3000～￥3999",NA,3.07,3.08,NA,24,35.0077971378627,135.743959180401
+"724","Rakuzouutage  ","楽蔵うたげ 京都駅前店","Kyoto","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.02,3.03,NA,8,34.9879079960651,135.760028403735
+"725","Kyoutomamehachi  ","京都豆八","Gion Shijo","Kyoto Cuisine","Tofu","￥4000～￥4999","￥1000～￥1999",3.08,3.06,3.11,22,35.0051035714978,135.771046696951
+"726","Garejisankyukafe  ","ガレージ サンキューカフェ","Uzumasa Tenjingawa","Cafe","Izakaya (other)","￥2000～￥2999","￥2000～￥2999",3.03,3.03,3,7,35.0138716760388,135.716223346325
+"727","Membou  ","めん坊 木屋町店","Kyoto Shiyakusho Mae","Kaiseki (Traditional Japanese)","Udon Suki","￥4000～￥4999",NA,3.11,3.08,3.17,15,35.0115731561825,135.770983626544
+"728","Masohohanare  ","まそほ離れ","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.18,3.18,NA,10,34.9877488173389,135.758363271575
+"729","Yumeya  ","夢屋","Kyoto Shiyakusho Mae","Okonomiyaki","Chow Mein Noodle","￥1000～￥1999",NA,3.55,3.55,NA,73,35.0136062993242,135.772545069919
+"730","Giontakahashi  ","祗をん たかはし","Gion Shijo","Kappo (Traditional Japanese)","Fugu (Blowfish)","￥10000～￥14999",NA,3.57,3.57,NA,9,35.0022297711758,135.774422215596
+"731","Ranka  ","Lanka","Kawaramachi","Bistro","French","￥6000～￥7999","￥2000～￥2999",3.58,3.58,3.58,48,35.0041686153007,135.767829229431
+"732","Hakatamotsunabefukuya  ","博多もつ鍋　福屋 京都店","Kawaramachi","Motsu Nabe (Offel Hot Pot)","Izakaya (Tavern)","￥3000～￥3999",NA,3.03,3.03,NA,15,35.0045881939504,135.769811972536
+"733","Ramenhikosaku  ","らーめん　彦さく","Imadegawa","Ramen","Dumplings"," ～￥999"," ～￥999",3.51,3.4,3.45,62,35.0296805403641,135.748011367353
+"734","Shunsaisousakubifferoan  ","露菴 京都八幡店","Yawatashi","Buffet style","Shabu Shabu (Japanese Steamboat)","￥2000～￥2999","￥1000～￥1999",3,3.05,3,21,34.8613317379472,135.717111978941
+"735","Tempurabaruharuichi  ","天ぷらバル ハルイチ","Karasuma Oike","Tempura","Bar","￥2000～￥2999",NA,3.3,3.3,3.02,6,35.0100398265589,135.761806681504
+"736","Tankumakitamise  ","たん熊北店 本店","Kawaramachi","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥20000～￥29999","￥6000～￥7999",3.59,3.52,3.62,74,35.0052360395964,135.770031497391
+"737","Miho  ","味峯 西大路駅前店","Nishioji","Izakaya (Tavern)","Okinawan Cuisine","￥3000～￥3999",NA,3.23,3.23,NA,7,34.9805852290329,135.731705537544
+"738","Tempurakawatatsu  ","天ぷら 川辰","Katsuragawa","Tempura","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥3000～￥3999",3.56,3.32,3.61,40,34.9649628122864,135.720321924459
+"739","Gyaatei  ","ぎゃあてい","Arashiyama","Buffet style","Sushi","￥2000～￥2999",NA,3.51,3.06,3.51,72,35.0154116671077,135.677433996873
+"740","Ryuumon  ","龍門 百万遍店","Mototanaka","Sichuan Cuisine","Dim sum","￥2000～￥2999"," ～￥999",3.08,3.08,3.08,26,35.0284157584058,135.784554779548
+"741","Yakinikudaisen  ","焼肉 大仙 西院店","Saiin","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥5000～￥5999",NA,3,3,NA,8,35.0021690441708,135.732429483662
+"742","Erupojo  ","EL POLLO","Kyoto","Spain","Pizza","￥4000～￥4999",NA,3.2,3.2,NA,42,34.9894019378795,135.760018980204
+"743","Man  ","滿","Kyoto Shiyakusho Mae","Sushi","Kappo (Traditional Japanese)","￥15000～￥19999","￥8000～￥9999",3.06,3.06,NA,3,35.0080845468479,135.765625621032
+"744","Baoku  ","Bar 奥","Karasuma","Bar","Wine bar","￥3000～￥3999",NA,3.08,3.08,NA,28,35.0028606021586,135.762247808746
+"745","Arashiyamakohakudou  ","嵐山 琥珀堂","Arashiyama","French","Cafe","￥2000～￥2999","￥1000～￥1999",3.07,3.01,3.08,27,35.0179455368515,135.676372408388
+"746","Shinshin  ","心心","Karasuma Oike","Izakaya (Tavern)","Seafood","￥4000～￥4999",NA,3.49,3.49,NA,20,35.0077748280468,135.763924943199
+"747","Icchou  ","一兆","Gion Shijo","Kyoto Cuisine","Nihonshu (Japanese sake)","￥5000～￥5999",NA,3.02,3.02,NA,1,35.0048613734925,135.770950049465
+"748","Shusaishokubouichi  ","酒菜食房いち","Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥1000～￥1999",3.22,3.14,3.18,50,35.0043758971916,135.756611818158
+"749","supeimbarurapaera  ","スペインバル ラパエラ","Matsugasaki","Spain","Bar","￥3000～￥3999","￥1000～￥1999",3.28,3.18,3.23,10,35.0514792809741,135.777590129409
+"750","Gimmiyananairo  ","吟味屋　菜々色","Omiya","Izakaya (Tavern)","Kappo (Traditional Japanese)","￥4000～￥4999","￥4000～￥4999",3.06,3.06,NA,7,35.0025121416123,135.752831106846
+"751","Marugameseimen  ","丸亀製麺 河原町三条店","Kyoto Shiyakusho Mae","Udon",NA," ～￥999"," ～￥999",3.07,3.07,3.08,45,35.0081582070578,135.768887568959
+"752","Ramenfuji  ","ラーメン 藤 五条店","Kiyomizu Gojo","Ramen",NA," ～￥999"," ～￥999",3.16,3.08,3.14,34,34.995584586635,135.770873816247
+"753","Kyoutogionkawamuraryourihei  ","京都祇園 川村 料理平 祇園北側店","Gion Shijo","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3,3,3.06,3,35.0052275316722,135.775886844825
+"754","Sentoro  ","CENTRO","Kyoto","Italian","Restaurants (other)","￥4000～￥4999",NA,3.1,3.1,NA,24,34.9893344838471,135.758522352023
+"755","Giommikaku  ","祇園みかく","Gion Shijo","Steak","Sukiyaki","￥15000～￥19999","￥15000～￥19999",3.1,3.1,3.01,21,35.0051385440526,135.772653102439
+"756","Enyanishiki  ","円屋 錦","Karasuma","Izakaya (Tavern)","Oden","￥3000～￥3999"," ～￥999",3.12,3.06,3.22,37,35.005518623994,135.76282280641
+"757","Kampaiboupuruda  ","韓杯房 プルダ 京都駅南店","Kyoto","Korean cuisine","Yakiniku (BBQ Beef)","￥3000～￥3999",NA,3.42,3.42,NA,27,34.9827149389651,135.759945871909
+"758","Menshoutakamatsu  ","麺匠 たか松 四条店","Karasuma","Ramen","Tsukemen"," ～￥999"," ～￥999",3.07,3.06,3.07,34,35.0034213566254,135.761166483843
+"759","Kyounooheso  ","京のおへそ","Kawaramachi","Izakaya (Tavern)",NA,"￥3000～￥3999",NA,3.51,3.51,3.02,13,35.0054803952062,135.766442062016
+"760","Zen  ","ぜん","Demachiyanagi","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.05,3.05,NA,5,35.0287294079984,135.772775743355
+"761","Aburiya  ","あぶりや","Higashi Maizuru","Izakaya (Tavern)","Oden","￥3000～￥3999",NA,3.05,3.05,NA,1,35.4741357374558,135.396293585356
+"762","kodawaritamagosemmontentamagoya  ","こだわり卵専門店 たまごや","Arashiyama Torokko Station","Cafe","Japanese food (other)"," ～￥999",NA,3.15,3.05,3.15,22,35.0197263907298,135.672129794284
+"763","Tenjiyuen  ","てんじゅえん","Saiin","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.46,3.46,NA,12,35.0041542825655,135.731132506908
+"764","Rinku  ","リンク","Kyoto Shiyakusho Mae","Fowl","Izakaya (Tavern)","￥2000～￥2999",NA,3.27,3.27,NA,23,35.0092708784126,135.769608291207
+"765","Nishikiichiha  ","錦一葉","Kawaramachi","Café / coffee shop (and others)","Sweets","￥1000～￥1999","￥1000～￥1999",3.46,3.08,3.43,44,35.0049976617266,135.766022119118
+"766","Kushiageadachi  ","串あげ あだち","Kitaoji","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥4000～￥4999",NA,3.07,3.08,3.07,6,35.0424026894571,135.755312621546
+"767","Haiborubakyoutoichikyunisan  ","ハイボールバー　京都1923","Gion Shijo","Izakaya (other)","Bar","￥2000～￥2999","￥1000～￥1999",3.32,3.32,3.07,38,35.0036689978727,135.77076928604
+"768","Washokumai  ","和食 舞","Kyoto","Tempura","Sushi","￥3000～￥3999","￥1000～￥1999",3,3,3,9,34.983868728672,135.761332925814
+"769","Kyoutonanajouyakinikusakabayamadaruma  ","京都七条焼肉酒場 やまだるま","Shichijo","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999",NA,3.06,3.06,NA,11,34.9894060008253,135.766293370015
+"770","nikubaruandohorumonnabetaigu  ","肉バル＆ホルモン鍋TAIGU","Kyoto Shiyakusho Mae","Bar","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999","￥1000～￥1999",3.04,3.03,3.03,2,35.0116789722693,135.770644205412
+"771","Itoukyuuemon  ","伊藤久右衛門 本店","Uji","Sweets","Japan tea shoppe"," ～￥999",NA,3.58,3.09,3.58,380,34.8965491745695,135.808756618744
+"772","Kantonoryouritakeka  ","広東御料理　竹香","Gion Shijo","Chinese","Cantonese Cuisine","￥3000～￥3999",NA,3.3,3.3,NA,27,35.0058738341743,135.774898841566
+"773","Chikurin  ","竹林 本店","Uji","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥3000～￥3999",3.04,3.04,3.01,5,34.8854298668158,135.796201506731
+"774","Satsumayakinikukurozakurakurozakura  ","薩摩焼肉　黒桜","Uji","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥4000～￥4999","￥1000～￥1999",3.42,3.42,3.06,13,34.8829227139108,135.800720135782
+"775","Takasegawa  ","TAKASEGAWA","Gion Shijo","Sumibiyaki","Yakitori (Grilled chicken)","￥5000～￥5999",NA,3.6,3.6,NA,43,35.0024738397025,135.770298269074
+"776","Hairaitoshiyokudou  ","ハイライト食堂 御池店","Yamanouchi","table d'hôte","Western Cuisine"," ～￥999"," ～￥999",3.08,3.05,3.08,41,35.010798916133,135.723050340666
+"777","Kikusui  ","菊水","Gion Shijo","Western Cuisine","French","￥3000～￥3999","￥1000～￥1999",3.18,3.07,3.33,82,35.0039806574997,135.772274702222
+"778","Kimukatsu  ","キムカツ 京都烏丸店","Shijo","Tonkatsu (Pork cutlet)","Sandwich","￥1000～￥1999","￥1000～￥1999",3.08,3.07,3.08,86,35.0031524608191,135.759123888083
+"779","Kafemanowaru  ","カフェマノワール","Saiin","Italian",NA,"￥2000～￥2999"," ～￥999",3.08,3.09,3.06,21,35.0025111378625,135.732643680357
+"780","Purejiru  ","バイキングレストラン ル・プレジール","Kyoto","Buffet style",NA,"￥4000～￥4999","￥2000～￥2999",3.15,3.07,3.3,68,34.9837908653969,135.755961431057
+"781","Sumibiyakitorikajian  ","炭火やきとり　かじ庵","Nagaokakyo","Yakitori (Grilled chicken)","Shochu (Japanese spirits)","￥2000～￥2999"," ～￥999",3.03,3,3.04,8,34.9226045379028,135.699804179572
+"782","Kazamidori  ","風見鶏 烏丸六角店","Karasuma Oike","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥2000～￥2999"," ～￥999",3,3,NA,6,35.0074586959799,135.76078938483
+"783","SPOON  ","スプーン","Karasuma","Dining bar","Japanese food (other)","￥3000～￥3999",NA,3.18,3.18,NA,39,35.0028794927772,135.762462512264
+"784","Isobe  ","いそべ 本店","Higashiyama","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥6000～￥7999","￥3000～￥3999",3.06,3.06,3,12,35.0029763063521,135.782180189157
+"785","Sukairaunjikuu  ","スカイラウンジ「空」KUU","Kyoto","Bar","Lounge","￥2000～￥2999"," ～￥999",3.09,3.09,3.03,56,34.9875874625536,135.759327643357
+"786","Kaiuntei  ","海雲亭 槙島店","Ogura","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999","￥1000～￥1999",3.05,3.03,3.06,19,34.9058174718317,135.783932142574
+"787","Honkedaiichiasahi  ","本家 第一旭 たかばし本店","Kyoto","Ramen","Dumplings"," ～￥999"," ～￥999",3.6,3.59,3.6,1319,34.9866951135566,135.762508253626
+"788","Kichisen  ","京懐石 吉泉","Demachiyanagi","Kaiseki (Traditional Japanese)",NA,"￥20000～￥29999","￥10000～￥14999",4.19,4.16,4.11,79,35.0357972382644,135.771352202831
+"789","Hisago  ","ひさご","Gion Shijo","Oyako-don (Chicken Bowl)","Soba"," ～￥999"," ～￥999",3.54,3.34,3.53,180,35.0006025215866,135.778793760794
+"790","shikimanzenhanahana  ","四季萬膳はなはな","Nijo","Izakaya (Tavern)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.09,3.1,NA,14,35.0109202388192,135.743091528593
+"791","Gurumatei  ","ぐるま亭","Shin Tanabe","Okonomiyaki","Teppanyaki","￥2000～￥2999",NA,3.05,3.05,NA,4,34.8199447868556,135.77229289628
+"792","Kappouiimori  ","割烹 いいもり","Gion Shijo","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥4000～￥4999",3.52,3.52,NA,15,35.0051203246769,135.776102109662
+"793","barchetta  ","バルケッタ","Gojo","Italian","Wine bar","￥3000～￥3999",NA,3.43,3.43,NA,29,34.9987845762145,135.758963107573
+"794","Ajinomeimon  ","味の名門 総本家","Tambaguchi","Ramen","Dumplings"," ～￥999"," ～￥999",3.19,3.13,3.09,55,34.9907884382837,135.73937276434
+"795","Nagagutsutei  ","ながぐつ亭 本店","Jingu Marutamachi","Pasta","Pizza","￥3000～￥3999","￥2000～￥2999",3,3.08,3,21,35.0152739592173,135.776008038876
+"796","Ishise  ","石勢","Fushimi Momoyama","Kyoto Cuisine","Kappo (Traditional Japanese)","￥4000～￥4999",NA,3.08,3.09,NA,13,34.9315926940412,135.763654862084
+"797","Apikaruinkyouto  ","アピカルイン京都","Shugakuin","Ryokan","Kaiseki (Traditional Japanese)","￥3000～￥3999","￥2000～￥2999",3.06,3.06,NA,3,35.0522285701241,135.789190520388
+"798","Hanakushi  ","はな串","Kyoto","Kushi-age (Fried Skewer)","Izakaya (Tavern)","￥2000～￥2999",NA,3.53,3.53,NA,67,34.9893708415906,135.756961924387
+"799","Gionyuyama  ","祇園ゆやま","Sanjo Keihan","Kaiseki (Traditional Japanese)","Kappo (Traditional Japanese)","￥8000～￥9999","￥5000～￥5999",3.51,3.51,3.52,23,35.0056561108224,135.776681481321
+"800","Gioneguchi  ","祇おん 江口","Gion Shijo","Kappo (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999",NA,3.17,3.17,NA,9,35.0048317207206,135.774744457925
+"801","Sumibitowainkyoutoekimaeten  ","炭火とワイン 京都駅前店","Kyoto","Bar","Italian","￥4000～￥4999",NA,3.49,3.49,NA,22,34.9894509029149,135.760962977303
+"802","Susumevaikingubaikingu  ","すすめ！ヴァイキング 京都八幡店","Yawatashi","Buffet style","Yakiniku (BBQ Beef)","￥2000～￥2999","￥1000～￥1999",3.03,3,3.04,21,34.8640014281627,135.722566386502
+"803","Jounanen  ","城南園","Takeda","Chinese","Bento (Lunch box)","￥2000～￥2999"," ～￥999",3.15,3.05,3.15,25,34.9474104082993,135.745558692252
+"804","shunsairyoushin  ","旬彩漁 しん","Fushimi Momoyama","Seafood","Izakaya (Tavern)","￥4000～￥4999","￥2000～￥2999",3.33,3.33,NA,6,34.9316382430316,135.763557923593
+"805","Shourenkanyoshinoya  ","昭恋館 よ志のや","  Kyotango","Ryokan","Crab","￥30000～","￥10000～￥14999",3.55,3.56,3.51,24,35.7353030921031,135.094283726773
+"806","pino  ","Trattoria Pino","Matsugasaki","Italian","Cafe","￥3000～￥3999","￥1000～￥1999",3.07,3.08,3.07,48,35.051766712528,135.775431684322
+"807","Kyoumachishizuku  ","京町しずく 京都駅前店","Kyoto","Izakaya (Tavern)","Seafood","￥3000～￥3999",NA,3.05,3.05,NA,5,34.9879085515176,135.760025903917
+"808","nihonshutoobanzainokyousakabamitoki  ","日本酒とおばんざいの京酒場 みとき","Shijo","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.12,3.12,NA,16,35.0026158328091,135.758050946342
+"809","Koudaijihashiba  ","高台寺羽柴","Gion Shijo","Kyoto Cuisine","Tempura","￥2000～￥2999","￥2000～￥2999",3.23,3.07,3.23,31,35.0006616989386,135.779767843839
+"810","Ryuunohige  ","龍のひげ","Kyoto Shiyakusho Mae","Kyoto Cuisine","French","￥5000～￥5999","￥3000～￥3999",3.7,3.74,3.54,70,35.0102810436345,135.769350210574
+"811","nikutowaimbaruwaraku  ","肉とワイン バルワラク","Kyoto","Bar","Spain","￥3000～￥3999"," ～￥999",3.52,3.51,3.3,26,34.989430054661,135.759981115362
+"812","Kyoutogontaro  ","京都 権太呂 本店","Kawaramachi","Udon Suki","Soba","￥5000～￥5999","￥1000～￥1999",3.59,3.51,3.59,151,35.0043896605496,135.765412197765
+"813","Kuragarimasa  ","くらがり まさ","Gion Shijo","Dining bar","Motsu Nabe (Offel Hot Pot)","￥5000～￥5999","￥1000～￥1999",3.44,3.44,NA,8,35.0046520022495,135.773858706427
+"814","Kirarazaka  ","きらら坂","Matsuiyamate","Izakaya (Tavern)","Creative cuisine","￥3000～￥3999","￥1000～￥1999",3.08,3,3.12,8,34.830963986712,135.730349761198
+"815","Ryuumon  ","龍門 岡崎店","Higashiyama","Chinese","Sichuan Cuisine","￥2000～￥2999"," ～￥999",3.09,3.05,3.15,36,35.0140770189293,135.78481930665
+"816","Minamiyakankokushokudou  ","南屋韓国食堂","Shijo","Korean cuisine","Korean hot pot","￥3000～￥3999"," ～￥999",3.09,3.09,NA,13,35.0013809687296,135.758270707169
+"817","Kyouya  ","京屋","Gion Shijo","Kaiseki (Traditional Japanese)","Angler","￥10000～￥14999","￥5000～￥5999",3.04,3.04,NA,4,35.0059793457685,135.773028158735
+"818","Giwommorikou  ","ぎをん森幸","Higashiyama","Cantonese Cuisine","Dim sum","￥4000～￥4999","￥1000～￥1999",3.5,3.37,3.4,37,35.0076426054926,135.778998975169
+"819","Sakaguratamanohikari  ","酒蔵玉乃光","Karasuma","Izakaya (Tavern)","Mizutaki","￥2000～￥2999"," ～￥999",3.05,3.05,3.03,6,35.0027023136723,135.763846016636
+"820","Itsuraku  ","いつらく","Gion Shijo","Izakaya (Tavern)","Kyoto Cuisine","￥4000～￥4999",NA,3.5,3.5,NA,19,35.0046788897271,135.770762017924
+"821","Teppen  ","テッペン。","Momoyamagoryomae","Okonomiyaki","Chow Mein Noodle","￥1000～￥1999"," ～￥999",3.06,3.09,3,11,34.9351298049022,135.763036139502
+"822","Nijou  ","二条","Nijojo Mae","Teppanyaki","Steak","￥8000～￥9999","￥3000～￥3999",3.06,3.05,3.06,16,35.0124527439117,135.752767321126
+"823","Giwontokiwa  ","ぎをん 常盤","Sanjo Keihan","Soba","Udon","￥1000～￥1999","￥1000～￥1999",3.6,3.6,3.52,106,35.0057197060829,135.776163465858
+"824","Arufakafe  ","Arfa cafe","Sanjo","Dining bar","Bar","￥2000～￥2999",NA,3.04,3.04,NA,3,35.0095647476485,135.770282666114
+"825","Kaiuntei  ","海雲亭 小倉本店","Ogura","Korean cuisine","Yakiniku (BBQ Beef)","￥3000～￥3999","￥1000～￥1999",3.06,3.06,3.05,22,34.894873056744,135.782205845398
+"826","Bisutoroya  ","びすとろ家 京都駅前店","Kyoto","Izakaya (Tavern)","Bistro","￥4000～￥4999","￥3000～￥3999",3,3,NA,3,34.9879146620188,135.760028403428
+"827","THE AGLIO GARDEN  ","ザ アーリオガーデン","Gion Shijo","Dining bar","Creative cuisine","￥3000～￥3999",NA,3.03,3.03,NA,5,35.0047167191581,135.77734160379
+"828","Ichiyoshi  ","いちよし","Kyotanabe","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥4000～￥4999",NA,3.5,3.5,3.08,19,34.8195206204722,135.769711741285
+"829","Yukari  ","縁","Shijo","Chinese","Izakaya (Tavern)","￥3000～￥3999"," ～￥999",3.32,3.28,3.19,8,35.0017146378705,135.756372080332
+"830","RH Cafe  ","RH Cafe 京都店","Kawaramachi","Cafe",NA,"￥1000～￥1999","￥1000～￥1999",3.39,3.09,3.33,31,35.0067914170355,135.769358703872
+"831","Suiba  ","すいば 六角富小路店","Kyoto Shiyakusho Mae","Stand Bar","Dining bar","￥1000～￥1999",NA,3.55,3.53,3.32,50,35.0074579330962,135.764817939183
+"832","menkiya  ","麺毅家 河原町店","Kawaramachi","Ramen","Chinese","￥1000～￥1999"," ～￥999",3.08,3.05,3.08,11,35.0062467292621,135.76799550883
+"833","Kinkao  ","キンカーオ","Shichijo","Thailand cooking","Thai Curry","￥2000～￥2999","￥1000～￥1999",3.55,3.52,3.57,74,34.9894137825205,135.766565291517
+"834","Ujisoukokoro  ","宇治創 こころ","Uji","Dining bar","Creative cuisine","￥3000～￥3999","￥1000～￥1999",3.07,3,3.08,25,34.8902875198403,135.802902393235
+"835","Domadoma  ","土間土間 木屋町三条店","Sanjo","Izakaya (Tavern)","Yakitori (Grilled chicken)","￥3000～￥3999",NA,3.02,3.02,NA,29,35.0078623510651,135.770673447954
+"836","Chikyuuizakayashibuya  ","地球居酒屋 渋屋 椥辻本店","Nagitsuji","Izakaya (Tavern)","Japanese food (other)","￥2000～￥2999"," ～￥999",3,3,3,10,34.971088796966,135.814206900825
+"837","Ginzaraion  ","銀座ライオン 京都四条烏丸店","Shijo","Dining bar","Beer","￥4000～￥4999"," ～￥999",3.03,3.03,3.03,21,35.0034618678704,135.758877783165
+"838","ORTO  ","オルト","Karasuma Oike","Innovative cuisine","Fusion cuisine","￥8000～￥9999","￥4000～￥4999",4.06,3.97,3.85,53,35.0079907960238,135.75705300397
+"839","tsujiriheehonten  ","辻利兵衛本店","Uji","Parfait","Japan tea shoppe","￥1000～￥1999","￥1000～￥1999",3.54,3.07,3.54,116,34.8894730711688,135.7976731428
+"840","Haroukithisaryou  ","はろうきてぃ茶寮 ","Gion Shijo","Cafe","Kyoto Cuisine","￥1000～￥1999",NA,3.53,3.05,3.53,31,34.998884123475,135.780465367753
+"841","Minamiyawagyuudou  ","南屋和牛堂","Kitaoji","Yakiniku (BBQ Beef)","Horumon (BBQ Offel)","￥3000～￥3999",NA,3.04,3.04,NA,5,35.0571117378324,135.746977480898
+"842","Toretatedaininguyagyuu  ","とれたてダイニング 柳生","Narayama","Kaiseki (Traditional Japanese)","Izakaya (Tavern)","￥3000～￥3999","￥1000～￥1999",3.27,3.08,3.45,17,34.715817800493,135.83199384343
+"843","Itoudainingu  ","伊藤ダイニング 京都","Gion Shijo","Teppanyaki","Steak","￥8000～￥9999","￥3000～￥3999",3.33,3.13,3.48,18,35.0054405366251,135.77429418951
+"844","Saradanomisesancho  ","サラダの店サンチョ 伏見店","Fushimi Momoyama","Hamburger Steak","Western (Others)","￥1000～￥1999","￥1000～￥1999",3.08,3.07,3.1,72,34.9315754727825,135.763604589272
+"845","eruku  ","elk 京都河原町店","Kawaramachi","Pancake","Cafe","￥1000～￥1999"," ～￥999",3.53,3.09,3.52,62,35.0059392645602,135.768133567076
+"846","Teinojikafe  ","丁の字 CAFE","Kyoto Shiyakusho Mae","Cafe","Coffee shoppe","￥1000～￥1999"," ～￥999",3.55,3.04,3.55,25,35.0130740908337,135.770072244235
+"847","Sumibiyakitorikou  ","炭火やきとり 恒","Kawaramachi","Yakitori (Grilled chicken)","Izakaya (Tavern)","￥2000～￥2999",NA,3.02,3.02,NA,4,35.0018180788389,135.76564022105
+"848","Maboroshinochuukasobakatouyashijounibojirou  ","幻の中華そば加藤屋 四条にぼ次朗","Shijo","Ramen","Chinese"," ～￥999"," ～￥999",3.51,3.26,3.37,131,35.0034554557877,135.757510674776
+"849","Kyouryouriujigawaryokan  ","京料理 宇治川旅館","Uji","Ryokan",NA,"￥1000～￥1999",NA,3.04,3.04,3.03,18,34.8920673823658,135.805930948654
+"850","Obanzaitatsunosuke  ","おばんざい TATSUNOSUKE","Kawaramachi","Japanese food (other)","Izakaya (Tavern)","￥3000～￥3999",NA,3.3,3.3,NA,6,35.0047219885476,135.770177423516
+"851","kyounosozaiyatoku  ","京の素材家 とく","Kujo","Izakaya (Tavern)","Dining bar","￥3000～￥3999",NA,3.07,3.08,3.02,7,34.9819586245588,135.759578715001
+"852","Kankokusakuratei  ","韓国 さくら亭 烏丸店","Shijo","Yakiniku (BBQ Beef)","Korean cuisine","￥3000～￥3999",NA,3.16,3.16,NA,9,35.0014045794161,135.758390973872
+"853","Shisen  ","四川","Kyoto","Sichuan Cuisine","Cantonese Cuisine","￥6000～￥7999","￥2000～￥2999",3.08,3.06,3.09,34,34.9837897543949,135.755960875599
+"854","Barubera  ","バルベーラ","Saiin","Italian","Pasta","￥3000～￥3999",NA,3.09,3.06,3.15,21,35.0008519174627,135.729832260004
+"855","Yubasen  ","ゆば泉 宝ヶ池店","Kokusaikaikan","Tofu","Yuba","￥3000～￥3999","￥2000～￥2999",3.51,3.25,3.35,30,35.0642764468812,135.789118305015
+"856","Ibushigin  ","燻し銀","Sanjo","Izakaya (Tavern)","Dining bar","￥4000～￥4999",NA,3.06,3.06,NA,20,35.0102888839295,135.770971237848
+"857","Irujeko  ","イル・ジェーコ","Shijo","Italian","Pasta","￥4000～￥4999",NA,3.52,3.52,NA,8,35.0026302136653,135.75533810213
+"858","Anju  ","庵珠","Arashiyama","Tofu","Yuba","￥3000～￥3999","￥3000～￥3999",3,3,3,40,35.0174942169272,135.677135870192
+"859","Genkiya  ","源輝家","Nagaokakyo","Izakaya (Tavern)","Seafood","￥3000～￥3999"," ～￥999",3.23,3.15,3.31,24,34.9228941702762,135.699487536109
+"860","Gohanya  ","ごはんや","Karasuma Oike","Izakaya (Tavern)","Dining bar","￥2000～￥2999"," ～￥999",3.05,3.04,3.05,11,35.0100657151769,135.758682146292
+"861","Kyouwasabi  ","京わさび","Fukakusa","Pork Shabu Shabu","Kyoto Cuisine","￥2000～￥2999","￥1000～￥1999",3.08,3.08,3.03,5,34.9613731933477,135.767864807966
+"862","kyoutoebisuya  ","京都戎屋 北大路駅前店","Kitaoji","Izakaya (Tavern)","Oden","￥2000～￥2999",NA,3,3,NA,1,35.0433959052524,135.757470505848
+"863","Rakudaya  ","駱駝家","Saiin","Genghis Khan (BBQ Rum)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999",NA,3.06,3.06,NA,7,35.0023959184956,135.72980441345
+"864","Shouentei  ","鐘園亭","Kiyomizu Gojo","Chinese","Ramen","￥1000～￥1999"," ～￥999",3.14,3.07,3.13,19,34.9972875678983,135.777048780564
+"865","Nishikihenkotsu  ","錦へんこつ","Kawaramachi","Yakiniku (BBQ Beef)","Izakaya (Tavern)","￥3000～￥3999",NA,3.51,3.51,NA,29,35.0052281778042,135.765173567866
+"866","Gyuukimura  ","牛・キムラ 山科店","Nagitsuji","Yakiniku (BBQ Beef)","Sukiyaki","￥5000～￥5999",NA,3.06,3.06,3.06,8,34.9748227697992,135.815589784031
+"867","Kafecherisshu  ","cafe Cherish","Marutamachi","Cafe","Sweets (and others)","￥1000～￥1999","￥1000～￥1999",3.45,3.11,3.42,34,35.0134686623307,135.763859408711
+"868","Masoho  ","まそほ 京都店","Kyoto","Seafood","Robatayaki","￥4000～￥4999",NA,3.35,3.35,NA,77,34.9883998479957,135.757743848599
+"869","Kamogawatakashi  ","鴨川たかし","Jingu Marutamachi","Yakiniku (BBQ Beef)","Kaiseki (Traditional Japanese)","￥5000～￥5999","￥2000～￥2999",3.59,3.58,3.61,58,35.0158783299847,135.769525646838
+"870","IZAMA  ","居様","Karasuma","Kyoto Cuisine","Creative cuisine","￥4000～￥4999","￥1000～￥1999",3.53,3.04,3.58,40,35.0065917754325,135.756848918666
+"871","Kaisekihyouki  ","懐石 瓢樹","Karasuma Oike","Kappo (Traditional Japanese)","Kyoto Cuisine","￥10000～￥14999","￥4000～￥4999",3.47,3.3,3.38,39,35.0074063648341,135.755702212052
+"872","miyazakikenhyuugashitsukadanoujou  ","宮崎県日向市 塚田農場 京都三条大橋店","Sanjo","Izakaya (Tavern)","Fowl","￥3000～￥3999",NA,3.03,3.03,NA,22,35.0088442843889,135.771154849073
+"873","Kyounojiyasaiitariampacchokone  ","パッチョコーネ","Kyoto","Italian","Pasta","￥2000～￥2999"," ～￥999",3.03,3.04,3,7,34.9893769011115,135.75404549965
+"874","Kabochanotane  ","かぼちゃのたね","Gion Shijo","Kappo (Traditional Japanese)","Kyoto Cuisine","￥3000～￥3999","￥2000～￥2999",3.51,3.41,3.42,25,35.0039632057237,135.774928649282
+"875","Giwonyakinikushige  ","祇をん焼肉 茂 ","Gion Shijo","Yakiniku (BBQ Beef)","Shabu Shabu (Japanese Steamboat)","￥10000～￥14999",NA,3.06,3.06,NA,3,35.0041779249195,135.776070211256
+"876","Taruhachi  ","樽八","Mototanaka","Izakaya (Tavern)","Ramen","￥3000～￥3999"," ～￥999",3,3,NA,9,35.0311828856723,135.780160294884
+"877","THE BUFFET STYLE SARA  ","ザ・ブッフェスタイル サラ","Shijo","Buffet style","Creative cuisine","￥2000～￥2999","￥1000～￥1999",3.12,3.07,3.19,93,35.0031524608191,135.759123888083
+"878","Karafuneyakohiten  ","からふね屋珈琲店 三条本店","Kyoto Shiyakusho Mae","Traditional Café","Cafe"," ～￥999"," ～￥999",3.52,3.19,3.51,99,35.0084156766346,135.768817304364
+"879","Arashiyamataniguchi  ","嵐山 谷口","Arashiyama","Kaiseki (Traditional Japanese)","Kyoto Cuisine","￥8000～￥9999","￥5000～￥5999",3.06,3.06,3.06,8,35.007197042578,135.680433014907
+"880","danieruzuaruba  ","Daniel’s ALBA","Karasuma Oike","Italian","Dining bar","￥3000～￥3999","￥1000～￥1999",3.08,3.05,3.1,26,35.0105331154159,135.762281063839
+"881","Giongyuuzen  ","祗園 牛禅","Gion Shijo","Shabu Shabu (Japanese Steamboat)","Sukiyaki","￥3000～￥3999",NA,3.06,3.06,NA,18,35.0046428952082,135.777216483539
+"882","guridorufo-suitsuraku  ","GRIDDLE FORCE 逸楽","Karasuma","Teppanyaki","Steak","￥5000～￥5999","￥1000～￥1999",3.06,3.05,3.06,8,35.006301867766,135.760359751551
+"883","Tatsumiya  ","辰巳屋","Uji","Kyoto Cuisine","Hot Pot (other)","￥8000～￥9999","￥3000～￥3999",3.07,3.02,3.08,20,34.8884761654939,135.809145225435
+"884","Okonomiyakitonchinkan  ","とんちんかん","Kyoto Shiyakusho Mae","Okonomiyaki","Monjya yaki","￥2000～￥2999","￥1000～￥1999",3.05,3.05,3,28,35.0076926926099,135.768390409458
+"885","Kifuneugenta  ","貴船 右源太","Kurama","Kyoto Cuisine","Kaiseki (Traditional Japanese)","￥10000～￥14999","￥6000～￥7999",3.54,3.51,3.47,55,35.1242945847518,135.763782368037
+"886","teuchiudonishokuyabongu  ","手打ちうどん 居食屋 凡愚","Nishi Maizuru","Izakaya (Tavern)","Udon","￥1000～￥1999","￥1000～￥1999",3.07,3.07,3.06,14,35.4461139524881,135.328732848371
+"887","umaimonyaki sun  ","うまいもん焼 参","Gion Shijo","Yakitori (Grilled chicken)","Motsu Nabe (Offel Hot Pot)","￥3000～￥3999"," ～￥999",3.03,3.04,NA,28,35.0056115677346,135.770761419477
+"888","Toritoyudoufuizakayaaogiya  ","鶏と湯豆腐 居酒屋 あおぎ屋","Saiin","Izakaya (Tavern)","Kyoto Cuisine","￥3000～￥3999",NA,3.15,3.15,NA,7,35.0041985270913,135.731156995901
+"889","Menshoutakamatsu  ","麺匠 たか松 本店","Karasuma","Tsukemen","Ramen"," ～￥999"," ～￥999",3.58,3.41,3.58,203,35.0062610473475,135.76084915723
+"890","Wayang Bali  ","ワヤン バリ","Kyoto Shiyakusho Mae","Indonesia cuisine",NA,"￥3000～￥3999",NA,3.04,3.04,NA,15,35.0100349491136,135.768793045956
+"891","Waraku  ","和楽","Fukuchiyama","Izakaya (Tavern)","Kaiseki (Traditional Japanese)","￥2000～￥2999"," ～￥999",3,3.06,3,12,35.2989165773867,135.118340987517
+"892","YEBISU BAR  ","エビスバー 京都ヨドバシ店","Kyoto","Beer bar","Bar","￥3000～￥3999"," ～￥999",3.08,3.07,3.08,70,34.9881320046433,135.759215235111
+"893","Ibushiginkazuya  ","燻吟 かず家","Kawaramachi","Bar","Nihonshu (Japanese sake)","￥3000～￥3999",NA,3.36,3.36,3.05,11,35.0064489588032,135.769652861876
+"894","Tenichi  ","天一 京都伊勢丹店","Kyoto","Tempura","Ten-don (Tempura Bowl)","￥6000～￥7999","￥2000～￥2999",3.51,3.32,3.53,52,34.9858865044589,135.757672025839
+"895","Rakuzenkakinuma  ","楽膳柿沼","Jingu Marutamachi","Kappo (Traditional Japanese)","Kaiseki (Traditional Japanese)","￥8000～￥9999","￥2000～￥2999",3.1,3.09,3.08,9,35.0175901866382,135.777360379382
